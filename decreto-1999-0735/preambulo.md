@@ -1,0 +1,7 @@
+DECRETO No. 735
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Ejecutivo del 26 de junio de 1939, publicado en el Diario Oficial No. 144, Tomo 127 del 5 de julio de 1939, ratificado por Decreto Legislativo Número 15, del 18 de junio de 1940, publicado en el Diario Oficial No. 141, Tomo 128, del 21 de junio de 1940, el Estado salvadoreño declaró árboles nacionales de la República el Bálsamo y el Maquilzhuat, con el expresado propósito de que las generaciones presentes y futuras les dediquen esmerada atención para que se conserven y propaguen en mayor escala en el país;
+II.- Que con el propósito de difundir por todos los medios posibles una cultura protectora de nuestro medio ambiente, es necesario destacar de entre la avifauna que aún se conserva en nuestro país, un ave que simbolice dichos esfuerzos y permita fomentar el respeto por las distintas formas de vida silvestre que subsisten en nuestro medio ambiente;
+III.- Que siendo el Torogoz un ave de singular belleza por su policromo plumaje, inadaptable al cautiverio y símbolo de la unidad familiar, por la participación en pareja en el cuidado de sus pichones, es conveniente declararlo como Ave Nacional de El Salvador, con el objetivo de preservarlo del exterminio y fomentar su protección, así como la de todas las aves silvestres que embellecen nuestro hábitat;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Diputado Gerardo Escalón Gómez DECRETA:
