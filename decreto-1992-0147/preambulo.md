@@ -1,0 +1,11 @@
+DECRETO N1 147
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que la exitosa culminación del proceso de negociación de la paz, abre las puertas para una nueva convivencia social fundada en el mutuo respeto y reconocimiento y que en consecuencia, es necesario dictar las medidas legislativas necesarias para superar el estado de violencia y agudo enfrentamiento que hemos vivido los salvadoreños en los últimos años;
+II. Que para hacer realidad esta nueva convivencia social es necesario impulsar un proceso de reconciliación nacional en el que el perdón juega un papel importante;
+III. Que el día 16 de los corrientes se suscribieron solemnemente los acuerdos de paz en la Ciudad de México, los cuales establecen que deberán dictarse las medidas legislativas que permitan a todos los salvadoreños incorporarse al goce pleno de los derechos que establece la Constitución;
+IV. Que los acuerdos de paz establecen en forma clara el calendario para la incorporación a la vida civil, en un marco de plena legalidad, de los miembros del Frente Farabundo Martí para la Liberación Nacional;
+V. Que para reconstruir nuestra sociedad es conveniente establecer un plazo prudencial para que aquellos ciudadanos que se sientan víctimas de los hechos acaecidos durante estos años, puedan pedir el esclarecimiento de los mismos. Así mismo, es necesario dar a la Comisión de la Verdad el tiempo para que realice sus averiguaciones. Pero también es igualmente importante evitar que quede gravitando sobre la sociedad la incertidumbre de la persecución judicial por un tiempo indefinido;
+VI. Que de acuerdo al Artículo N1 131 de la Constitución, Ordinal 26, corresponde a la Asamblea Legislativa, la facultad de conceder amnistía por los delitos políticos, comunes conexos con éstos o por delitos comunes cometidos por un número de personas que no baje de 20;
+POR TANTO:
+en uso de sus facultades constitucionales y a iniciativa de los diputados José Francisco Guerrero Munguía, Fidel Chávez Mena, Gerardo Le Chevallier, Ciro Cruz Zepeda Peña, José Rafael Machuca, Rubén Ignacio Zamora Rivas, Jorge Alberto Carranza Alvarez, Mario Aguiñada Carranza, Guillermo Antonio Guevara Lacayo, Hector Ricardo Silva Argüello, DECRETA: la siguiente
+LEY DE RECONCILIACION NACIONAL
