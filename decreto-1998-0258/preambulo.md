@@ -1,0 +1,7 @@
+DECRETO Nº 258.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que el Art. 133 ordinal 3º de la Constitución, establece que la Corte Suprema de Justicia tiene exclusivamente iniciativa de la ley en materias relativas al Órgano Judicial, al ejercicio del Notariado y de la Abogacía, y a la jurisdicción y competencias de los tribunales;
+II. Que el Art. 51 atribución 6ª de la Ley Orgánica Judicial, faculta a la Corte Plena para proponer al Órgano Legislativo la creación de nuevos tribunales, de la naturaleza y con la jurisdicción que estime conveniente; la supresión de cualquiera o cualesquiera de los mismos cuando no fueren necesarios; la separación o la unión de las jurisdicciones por razón de la materia, cuando así convenga a la buena administración de justicia; o la conversión de tribunales existentes en otros que deban conocer en materia o materias distintas;
+III. Que la iniciativa de ley que la Constitución concede a la Corte Suprema de Justicia se ve restringida por la citada atribución sexta, por cuanto la reduce a una mera propuesta al Órgano Legislativo; y porque el texto de aquella atribución no contempla otros casos que en la realidad y en el ejercicio de la jurisdicción se presentan; lo que justifica la sustitución de dicha atribución a fin de armonizarla con la Constitución;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de la Corte Suprema de Justicia, DECRETA la siguiente reforma a la Ley Orgánica Judicial:
