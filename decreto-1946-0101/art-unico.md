@@ -1,0 +1,3 @@
+Artículo Único.- Adiciónase al Art. 154 de la Ley Agraria vigente, los incisos siguientes: AEn el caso a que se refiere este artículo y para proceder a la subasta, no será necesario que el Fisco o las Municipalidades acrediten su derecho con título escrito del respectivo camino.
+El dominio del Estado o del Municipio se presume, salvo prueba instrumental contraria, la que podrá presentarse en cualquier tiempo antes del remate; el acta respectiva se inscribirá sin necesidad de antecedente inscrito.
+La subasta se hará sin perjuicio de dejar establecidas las servidumbres de tránsito correspondientes a los terrenos que quedaren incomunicados en virtud de dicha subasta.@
