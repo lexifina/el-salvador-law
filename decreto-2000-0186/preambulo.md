@@ -1,0 +1,6 @@
+DECRETO N° 186
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad con el artículo 131, numeral 22, de la Constitución de la República, es facultad de este Órgano del Estado conceder a personas o poblaciones, títulos, distinciones honoríficas y gratificaciones compatibles con la forma de gobierno establecida, por servicios relevantes prestados a la patria.
+II.- Que la cantante salvadoreña Dina Esmeralda Rodríguez Guerra, de seudónimo Glenda Gaby, ha logrado un importante éxito a nivel internacional, proyectando con ello los valores artísticos y culturales de nuestra nacionalidad, especialmente en los diferentes países de Europa, Asia y América, en los que se ha destacado como digna representante del pueblo salvadoreño.
+III.- Que no obstante su residencia en el extranjero, la referida compatriota ha mantenido latente el arraigo con su pueblo natal, actuando periódicamente en nuestro país, especialmente para contribuir, con su talento artístico, en diversos espectáculos organizados a beneficio de la niñez indigente de El Salvador. POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de los Diputados Rafael Hernán Contreras y José Mauricio Quinteros, DECRETA:
