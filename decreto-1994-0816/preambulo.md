@@ -1,0 +1,6 @@
+DECRETO No. 816
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Fundación Fé y Humanismo es una entidad de utilidad pública, no lucrativa, con personería jurídica otorgada por Acuerdo Ejecutivo en el Ramo del Interior, N° 44 de fecha 31 de mayo de 1989, publicado en el Diario Oficial N° 35, Tomo 306 de fecha 14 de febrero de 1990;
+II.- Que dentro de sus finalidades está colaborar en la formación personal y prestar ayuda humanitaria a personas afectadas por causa de la violencia, así como promover el desarrollo integral de los salvadoreños, elaborar programas y cursos de capacitación en búsqueda de una reintegración de las personas en la producción;
+III.- Que a fin de incentivar las donaciones a la referida Fundación, para que ésta pueda cumplir en mejor forma con sus objetivos, es procedente establecer que las donaciones que reciba serán deducibles del Impuesto sobre la Renta; POR TANTO,
+En uso de sus facultades constitucionales y a iniciativa de los Diputados David Humberto Trejo, Francisco Colocho, Roberto Edmundo Viera, Orlando Murcia, Lilian Díaz Sol, Angel Gabriel Aguirre, Osmín Velasco, Alfonso Aristides Alvarenga, Roberto Villatoro, Félix Blanco y Jorge Salvador Arriaza, DECRETA:
