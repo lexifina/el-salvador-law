@@ -1,0 +1,8 @@
+DECRETO No. 191
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador y la Comunidad Económica Europea (CEE), han celebrado el Convenio de Financiación N° NTP/93/428/922, denominado "MODERNIZACION DE LA ADMINISTRACION CENTRAL DE LA UNIVERSIDAD DE EL SALVADOR", el cual consta de un Preámbulo, cinco Artículos, un Anexo A relativo a las Disposiciones Técnicas y Administrativas, la cual comprende a su vez, las Condiciones Generales y un Anexo B, relativo al Arbitraje; suscrito en esta ciudad el día 12 de marzo de 1993, en nombre y representación del Gobierno de la República de El Salvador, por la Ministra de Educación, Licenciada Cecilia Gallardo de Cano, y en nombre y representación de la Comunidad Económica Europea (CEE), por el Director General, Encargado de las Relaciones Norte/Sur, Don Juan Prat;
+II.- Que el Convenio en mención servirá al resurgimiento de la Universidad de El Salvador (UES), que ha sufrido daños considerables a partir del terremoto de 1965, de 1986 y durante el período del conflicto armado;
+III.- Que dicho Convenio de Financiación fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo No. 352 de fecha 31 de octubre de 1994;
+IV.- Que el Convenio mencionado en los Considerandos anteriores, no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7° de la Constitución, en relación con el Art. 168 ordinal 4° de la misma, DECRETA:
