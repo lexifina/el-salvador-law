@@ -1,0 +1,6 @@
+DECRETO No. 771
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo No. 403, de fecha 3 de diciembre de 1992, publicado en el Diario Oficial No. 230, Tomo No. 317, de fecha 14 de diciembre del mismo año, mediante el cual se estableció en forma temporal que la capacidad para obligarse para los excombatientes de la Fuerza Armada de El Salvador, y del Frente Farabundo Martí para la Liberación Nacional (FMLN), comprendidos como beneficiarios en el Programa de Transferencia de Tierras de conformidad con los Acuerdos de Paz, sería para los que el primero de febrero de mil novecientos noventa y dos hubieran cumplido dieciséis años de edad;
+II.- Que dicho decreto ha sido prorrogado en dos oportunidades, siendo la última por Decreto Legislativo No. 616 de fecha 28 de julio de 1993, publicado en el Diario Oficial No. 164, Tomo 320 del 3 de septiembre del mismo año, el cual venció el 31 de diciembre de 1993;
+III.- Que en la actualidad aun se encuentran pendientes de tramitación algunas solicitudes de los referidos beneficiarios; por lo que es procedente que se amplíen los efectos del mencionado decreto hasta el 31 de marzo de 1994; POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del diputado Raúl Manuel Somoza Alfaro, DECRETA:
