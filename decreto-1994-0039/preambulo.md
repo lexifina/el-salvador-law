@@ -1,0 +1,7 @@
+DECRETO No. 39
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que Santa Rosa de Lima, Departamento de La Unión, fue fundada el 12 de diciembre de 1757, habiendo obtenido el Título de Villa el 25 de febrero de 1827 y el 22 de junio de 1865 fue segregada del Departamento de San Miguel y anexada al Departamento de La Unión; la que obtuvo el Título de Ciudad, el 9 de febrero de 1883;
+II.- Que el Gobierno Local y sus habitantes celebrarán las Fiestas Patronales, en el mes de agosto próximo, razón por la que es conveniente darle mayor realce a esas festividades, declarándola Capital Simbólica el día 30 de agosto de 1993, fecha en la cual la Asamblea Legislativa celebrará Sesión Solemne en dicha ciudad, con el propósito que sus habitantes, puedan presenciar directamente la forma en que esta Asamblea lleva a cabo sus Sesiones;
+III.- Que es facultad del Órgano Legislativo conceder a personas o poblaciones títulos o distinciones honoríficas compatibles con la forma de gobierno establecida y en razón de lo expresado en los considerandos anteriores, con el fin de incentivar a la población de la mencionada ciudad, es procedente conferirle los galardones señalados;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados: José Ramón Benitez, Norma Fidelia Guevara, Miguel Antonio Espinal Lazo, Segundo Alejandro Dagoberto Marroquín, Oscar Samuel Ortiz Ascencio y Mercedes Gloria Salguero Gross, DECRETA:
