@@ -1,0 +1,5 @@
+DECRETO Nº 535.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que mediante Decreto Legislativo Nº 202, de fecha 8 de enero de 1998, se aprobó la Ley de Liquidación y Disolución del Banco de Tierras, en cuyo Art. 2 se establece la creación de la Comisión Liquidadora, la cual deberá cumplir su cometido en el plazo de un año a partir de su nombramiento;
+II.- Que la Comisión Liquidadora a que hace referencia el considerando que antecede, fue nombrada a partir del 2 de febrero de 1998, terminando sus funciones el 1º de febrero del presente año; y en vista de la imposibilidad de que la misma pueda cumplir en su totalidad su cometido antes del vencimiento de la fecha relacionada, se hace necesario prolongar el período de sus funciones durante 6 meses más, a fin de que en este lapso pueda concluir con las labores encomendadas; POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados Raúl Mijango, Schafik Jorge Handal, José Ricardo Vega Hernández, René Napoleón Aguiluz y Carlos Alberto Escobar, DECRETA las siguientes Disposiciones Especiales:
