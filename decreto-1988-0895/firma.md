@@ -1,0 +1,10 @@
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los dieciocho días del mes de febrero de mil novecientos ochenta y ocho.
+GUILLERMO ANTONIO GUEVARA LACAYO,
+PRESIDENTE.
+ALFONSO ARÍSTIDES ALVARENGA, HUGO ROBERTO CARRILLO CORLETO, VICEPRESIDENTE. VICEPRESIDENTE. PEDRO ALBERTO HERNÁNDEZ PORTILLO, JOSÉ HUMBERTO POSADA SÁNCHEZ, SECRETARIO. SECRETARIO.
+RAFAEL MORÁN CASTANEDA,
+SECRETARIO.
+CASA PRESIDENCIAL: San Salvador, a los veintiséis días del mes de febrero de mil novecientos ochenta y ocho.
+PUBLÍQUESE,
+JOSÉ NAPOLEÓN DUARTE, Presidente Constitucional de la República.
+JOSÉ ANTONIO MORALES EHRLICH, Ministro de Agricultura y Ganadería.
