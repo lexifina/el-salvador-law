@@ -1,0 +1,8 @@
+DECRETO No. 77
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador, como miembro signatario de la Organización Internacional del Trabajo, ha adquirido el compromiso de ratificar y adecuar su legislación secundaria al espíritu de los diferentes Convenios en materia laboral, adoptados en la Conferencia General de la Organización Internacional del Trabajo;
+II.- Que en razón de lo establecido en el Considerando anterior, la Conferencia General de la Organización Internacional del Trabajo, con fecha 28 de junio de 1951, adoptó el Convenio No. 99 Relativo a los Métodos para la Fijación de Salarios Mínimos en la Agricultura, cuya finalidad es la de establecer métodos adecuados que permitan fijar tasas mínimas de salarios para los trabajadores agrícolas;
+III.- Que dicho Convenio fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo No. 258 de fecha 12 de abril del presente año, y que el mismo consta de un preámbulo y 15 artículos, el cual también podrá ser citado como el Convenio Sobre los Métodos para la Fijación de Salarios Mínimos (Agricultura) 1951;
+IV.- Que el Convenio a que se hace referencia en los considerandos anteriores, no contiene ninguna disposición contraria a la Constitución de la República, siendo procedente su ratificación.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República por medio del Viceministro de Relaciones Exteriores encargado del Despacho; y en atención a lo establecido en los Arts. 131 ordinal 7° y 168 ordinal 4° de la Constitución, DECRETA:
