@@ -1,0 +1,8 @@
+DECRETO No. 76
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador, como miembro signatario de la Organización Internacional del Trabajo, ha adquirido el compromiso de ratificar los distintos convenios que en materia laboral adopte dicho foro;
+II.- Que en la Conferencia General de la Organización Internacional del Trabajo, celebrada en los meses de junio y julio de 1948, los miembros de dicho Organismo, adoptaron con fecha 9 de julio de ese mismo año, el Convenio No. 88 relativo a la Organización del Servicio del Empleo, el que tiene como objetivo, que todo miembro de la Organización Internacional del Trabajo, mantenga o garantice el mantenimiento de un servicio público y gratuito del empleo, creando para tal efecto un sistema nacional de oficinas del empleo;
+III.- Que el referido Convenio fue aprobado en toda sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo No. 257, de fecha 12 de abril del presente año, y que consta de un preámbulo y 22 artículos, pudiendo ser citado como el Convenio Sobre el Servicio del Empleo, 1948;
+IV.- Que el Convenio a que se hace referencia en los anteriores considerandos, no contiene ninguna disposición contraria a la Constitución de la República, siendo procedente su ratificación.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República por medio del Viceministro de Relaciones Exteriores encargado del Despacho; y de conformidad a lo establecido en los Arts. 131, ordinal 7° y 168 ordinal 4° de la Constitución, DECRETA:
