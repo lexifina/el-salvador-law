@@ -1,0 +1,11 @@
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los treinta días del mes de octubre de mil novecientos noventa y dos.
+LUIS ROBERTO ANGULO SAMAYOA,
+PRESIDENTE.
+CIRO CRUZ ZEPEDA PEÑA, RUBÉN IGNACIO ZAMORA RIVAS, VICEPRESIDENTE. VICEPRESIDENTE. MERCEDES GLORIA SALGUERO GROSS,
+VICEPRESIDENTE.
+RAÚL MANUEL SOMOZA ALFARO, ERNESTO TAUFIK KURY ASPRIDES, SECRETARIO. SECRETARIO. RENÉ FLORES AQUINO, RAÚL ANTONIO PEÑA FLORES, SECRETARIO. SECRETARIO. REYNALDO QUINTANILLA PRADO,
+SECRETARIO.
+CASA PRESIDENCIAL: San Salvador, a los cuatro días del mes de noviembre de mil novecientos noventa y dos.
+PUBLÍQUESE,
+Alfredo Félix Cristiani Burkard, Presidente de la República.
+José Raúl Castaneda Villacorta, Ministro de Obras Pública.
