@@ -1,0 +1,8 @@
+DECRETO No. 171
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad con el Decreto Legislativo N° 422, de fecha 17 de diciembre de 1992, publicado en el Diario Oficial N° 236, Tomo 317, de fecha 22 de diciembre del mismo año; se derogó la Ley de Impuesto sobre Exportaciones del Café y sus Reformas; sujetándose en consecuencia, todos aquellos productos o utilidades provenientes de la producción, cultivo, transformación y comercialización del café, al Régimen General que al efecto prescribe la Ley de Impuesto sobre la Renta;
+II.- Que en el Artículo 4 del referido Decreto Legislativo se estableció la facultad a la Dirección General de Impuestos Internos de requerir el pago del impuesto mediante el método de retención para toda clase de sujetos pasivos;
+III.- Que la Ley de Impuesto sobre la Renta, atendiendo la condición particular de los contribuyentes, concibe un tratamiento diferente en lo relativo a los porcentajes de retención, los cuales pueden ser revisados, de modo que guarden consonancia con el impuesto a pagar;
+IV.- Que de acuerdo a los niveles de precios internacionales, las utilidades que se generan con el sector café, experimentan oscilaciones y consecuentemente el Impuesto sobre la Renta que los grava debe adecuarse a dichas tendencias, por lo que se considera conveniente revisar los porcentajes de retención, sobre todo, cuando dichas utilidades constituyen ingresos extraordinarios;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
