@@ -1,0 +1,9 @@
+DECRETO N° 625.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Constitución de la República en su Artículo 119 establece que el Estado procurará porque el mayor número de familias salvadoreñas lleguen a ser propietarios de vivienda;
+II.- Que el Pacto Internacional de Derechos Económicos, Sociales y Culturales, de las Naciones Unidas, vigente en El Salvador, en su artículo 11 numeral 1, establece que los Estados partes que reconocen el Derecho de toda persona a un nivel de vida adecuado para su familia, incluso alimentación, vestido y vivienda adecuada, y a una mejora contínua de las condiciones de existencia;
+III.- Que un gran número de familias de escasos recursos económicos han construido humildes viviendas en terrenos baldíos, tramos ferroviarios y carreteras en desuso, que pertenecen a Instituciones del Estado;
+IV.- Que en el caso de la Comunidad “Los Olivos” Calle Vieja, Nuevo Amanecer asentada sobre un tramo de la calle antigua al municipio de San Martín, cantón La Palma, los pobladores han realizado todo tipo de acciones para legalizar la situación de las viviendas que ocupan, por lo que es necesario que esta Asamblea dé respuesta a sus peticiones a fin de dar seguridad jurídica a dichos pobladores;
+POR TANTO,
+en uso de sus facultades Institucionales y a iniciativa de los Diputados Hermes Alcides Flores, José Mario Moreno Rivera, Elizardo González Lovo, David Rodríguez Rivera, Isidro Antonio Caballero, Olme Remberto Contreras, Luis Alberto Cruz, José Mauricio Salazar Hernández, Carlos Alberto Escobar, Nelson Napoleón García, René Napoleón Aguiluz Carranza y Alex René Aguirre Guevara, DECRETA la siguiente:
+LEY ESPECIAL PARA EL TRASPASO Y LEGALIZACIÓN DEL TRAMO DE LA ANTIGUA CALLE A SAN MARTÍN, DEPARTAMENTO DE SAN SALVADOR, A FAVOR DE LAS PERSONAS QUE LO HABITAN
