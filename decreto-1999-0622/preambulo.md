@@ -1,0 +1,6 @@
+DECRETO N° 622.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la tormenta tropical “Mitch” dañó miles de viviendas de familias de escasos recursos económicos, especialmente de la zona rural; por lo que el Gobierno de la República está haciendo esfuerzos para obtener ayuda, a fin de contribuir a la reconstrucción de dichas viviendas;
+II.- Que para la consecución de lo antes expuesto, el Organo Ejecutivo ha realizado gestiones ante el Fondo Internacional de Cooperación y Desarrollo de la República de China, para el otorgamiento de un préstamo por un monto de hasta CUATRO MILLONES DE DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US$4.000.000.00), recursos que se destinarán para financiar la construcción de viviendas; proyecto que ejecutará el Ministerio de Obras Públicas, Transporte y de Vivienda y Desarrollo Urbano;
+III.- Que en razón de lo anterior y de conformidad a lo establecido en el Art. 148 de la Constitución de la República, es conveniente autorizar al Organo Ejecutivo en el Ramo de Hacienda para que suscriba el Convenio de Préstamo respectivo, para los fines referidos; POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
