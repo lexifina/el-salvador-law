@@ -1,0 +1,8 @@
+DECRETO No. 82
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador, como miembro signatario de la Organización Internacional del Trabajo, ha adquirido el compromiso de ratificar y adecuar su legislación secundaria al espíritu de los diferentes Convenios que en materia laboral se adopte en la Conferencia General de dicha Organización;
+II.- Que la Conferencia General de la Organización Internacional del Trabajo, con fecha 26 de junio de 1973, adoptó el Convenio No. 138, relativo a la Edad Mínima de Admisión al Empleo, el cual tiene como objeto el de adoptar un instrumento general aplicable a sectores económicos limitados, tendiente a lograr la total abolición del trabajo de los niños;
+III.- Que el referido Convenio fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, mediante el Acuerdo No. 263, de fecha 12 de abril del presente año, constando el mismo, de un preámbulo y 18 artículos y que podrá ser citado como el Convenio Sobre la Edad Mínima, 1973; con la declaración prevista en el artículo dos del mismo, en el sentido de que para el Gobierno de El Salvador la edad mínima será de catorce años;
+IV.- Que el Convenio a que se hace referencia en los considerandos anteriores, no contiene ninguna disposición contraria a la Constitución de la República, siendo procedente su ratificación.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República por medio del Viceministro de Relaciones Exteriores encargado del Despacho; y en atención a lo establecido en los Arts. 131 ordinal 7° y 168 ordinal 4° de la Constitución, DECRETA:
