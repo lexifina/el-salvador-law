@@ -1,0 +1,9 @@
+DECRETO No. 744.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de acuerdo al Art. 159, inciso primero de la Constitución, para la gestión de los negocios públicos habrá las Secretarías de Estado que fueren necesarias, entre las cuales se distribuirán los diferentes Ramos de la Administración;
+II.- Que mediante Decreto Legislativo No. 227, de fecha 14 de diciembre de 1972, publicado en el Diario Oficial No. 239, Tomo 237, del 22 de ese mismo mes y año, se creó la Secretaría de la Presidencia de la República;
+III.- Que para la ejecución de la política gubernamental, el Órgano Ejecutivo tiene la potestad de establecer la estructura orgánica que le permita realizar dicha política de manera más eficiente;
+IV.- Que mediante Decreto Ejecutivo No. 1, de fecha 1 de junio de 1999, publicado en el Diario Oficial No. 100, Tomo 343, de esa misma fecha, se decretaron reformas al Reglamento Interno del Órgano Ejecutivo, estableciéndose una nueva estructura para dicho Órgano, distribuyéndose entre las diversas Secretarías de la Presidencia, las funciones que correspondían al Ministerio de la Presidencia;
+V.- Que mediante Decreto Ejecutivo No. 2, de fecha 1 de junio de 1999, publicado en el Diario Oficial No. 100, Tomo 343, de esa misma fecha, se estableció que todas las funciones y atribuciones que en las normas jurídicas vigentes hubieren sido conferidas al Ministerio de la Presidencia, se entenderán asumidas por la Presidencia de la República, la que podrá delegarlas, distribuirlas o ejecutarlas según lo establezca el Reglamento Interno del Órgano Ejecutivo; siendo necesario derogar el Decreto de creación de la Secretaría de la Presidencia de la República, a fin de mantener la unidad y armonía de la legislación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República por medio del Ministro del Interior, DECRETA:
