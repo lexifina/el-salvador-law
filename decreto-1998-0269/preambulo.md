@@ -1,0 +1,7 @@
+DECRETO N° 269.-
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que el Gobierno de la República de El Salvador y el Gobierno de la República Federal de Alemania han celebrado el Contrato de Aporte Financiero denominado: “Fondo de Estudios y Expertos V”, el cual consta de Un Preámbulo y Siete Artículos, suscrito en esta ciudad, el 20 de enero del corriente año, en nombre y representación del Gobierno de la República de El Salvador por el Viceministro de Relaciones Exteriores, Promoción y Cooperación Internacional, Licenciado Héctor González Urrutia; y, en nombre y representación del Gobierno de la República Federal de Alemania, por su representante debidamente autorizado;
+II. Que los objetivos de dicho Contrato de Aporte Financiero son apoyar a través de la contratación de expertos, la elaboración de estudios que el Gobierno de El Salvador considera prioritarios y enmarcados en el Plan de Gobierno;
+III. Que el mencionado Instrumento fue aprobado en todas sus partes, por el Organo Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo N° 235 de fecha 9 de marzo de 1998 y que no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
