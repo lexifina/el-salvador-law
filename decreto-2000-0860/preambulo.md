@@ -1,0 +1,7 @@
+DECRETO No. 860
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Canje de Notas concerniente al Proyecto de Contramedida para Enfermedad Infantil, celebrado entre el Gobierno de la República de El Salvador y el Gobierno del Japón, el cual consta de Un Preámbulo, Siete Numerales, Una Minuta de Acuerdo sobre los Detalles del Procedimiento y Una Memoria de Discusión, fue suscrito en esta ciudad el 17 de enero de 2000, en nombre y representación del Gobierno de El Salvador, por la Ministra de Relaciones Exteriores, Licenciada María Eugenia Brizuela de Avila; y, en nombre y representación del Gobierno del Japón, por el Embajador acreditado en este país, Don Saburo Yuzawa.
+II.- Que la finalidad es poner en marcha la ejecución del Proyecto que contribuirá al mejoramiento de la salud de niños y mujeres embarazadas, así como el fortalecimiento del programa de suministro de medicamentos e insumos que se utilizarán.
+III.- Que el Canje de Notas relacionado en los Considerandos anteriores fue aprobado por el Organo Ejecutivo a través del Ramo de Relaciones Exteriores, mediante Acuerdo No. 189 de fecha 21 de febrero del año en curso y no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación. POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma.
+DECRETA:
