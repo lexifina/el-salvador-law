@@ -1,0 +1,7 @@
+DECRETO No. 227
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que dentro de las actividades ordinarias del aparato estatal, se dan una serie de actuaciones, las cuales, con el fin de volverlas eficaces, requieren de su correspondiente transcripción a diferentes dependencias del Gobierno Central y entidades descentralizadas; ello, a efecto de darles la correspondiente publicidad y que sean del conocimiento de la generalidad y especialmente de aquellos que resulten involucrados con dichas actuaciones;
+II.- Que luego de examinar la innumerable cantidad de actuaciones emitidas por todas las entidades e Instituciones del Estado, se ha podido establecer que las mismas por tradición fundada en el respeto que merecen todos los funcionarios de la Administración Pública, se deben autorizar con la firma original del funcionario que las expide; la cual debe ir autografiada, tanto en el documento original contentivo del acto como en las respectivas transcripciones;
+III.- Que dicha práctica va en detrimento de la oficiocidad y celeridad que deben caracterizar los actos de la Administración Pública, a efecto de volverlos expeditos y eficaces; en vista de lo cual, se vuelve necesario emitir las reglas correspondientes que sustenten un proceder adecuado a las exigencias que le competen al Estado;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Viceministro de Hacienda, encargado del Despacho, DECRETA:
