@@ -1,0 +1,6 @@
+DECRETO N° 213
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que es necesario continuar con la estrategia de reducción de la pobreza y fortalecer el desarrollo local, que procure mejorar las condiciones de vida y aumentar las oportunidades de desarrollo de los sectores más pobres de la población del País, con un mecanismo viable de planificación y presupuestación participativa;
+II. Que para la consecución de lo antes expuesto el Organo Ejecutivo, ha realizado gestiones ante el Banco Interamericano de Desarrollo (BID) para el otorgamiento de un préstamo por un monto total de TREINTA Y CUATRO MILLONES SESENTA Y CINCO MIL DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US$34,065,000.00), recursos que se destinarán para financiar el proyecto “Programa de Desarrollo Local”;
+III. Que en razón de lo expuesto y de conformidad al Art. 148 de la Constitución de la República, es conveniente autorizar al Organo Ejecutivo en el Ramo de Hacienda para que suscriba el Contrato de Préstamo respectivo con el Banco Interamericano de Desarrollo (BID); POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
