@@ -1,0 +1,8 @@
+DECRETO No. 114
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo No. 292, de fecha 23 de julio de 1992, publicado en el Diario Oficial No. 142, Tomo 316, de fecha 30 de julio del mismo año, se aprobó la Ley para la Rehabilitación de los Sectores Productivos Directamente Afectados por el Conflicto, la que tiene por objeto fomentar la producción y el empleo, mediante la reestructuración de las obligaciones financieras y al acceso a nuevos créditos a los sectores productivos afectados directamente por el conflicto;
+II.- Que en el artículo 4 del referido Decreto se contempla que los pequeños empresarios tendrán un trato preferencial en el refinanciamiento de sus obligaciones con el Sistema Financiero;
+III.- Que es necesario concederles nuevos beneficios a los pequeños empresarios a que se refiere el considerando anterior, con el objeto de facilitar su incorporación a las actividades productivas.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República por medio del Ministro de Economía y de los diputados José Orlando Arévalo Pineda, Alex René Aguirre Guevara, Francisco Roberto Lorenzana Durán, José Roberto Larios Rodríguez, Carlos Guillermo Magaña Tobar, Rodolfo Ernesto Varela Méndez, Ricardo Adolfo León Mejía, Selín Ernesto Alabí Mendoza, Juan Francisco Emilio Mena Sandoval, José Dolores Zelaya Mendoza Félix Blanco y Joaquín Edilberto Iraheta. DECRETA:
+Las siguientes reformas a la LEY PARA LA REHABILITACION DE LOS SECTORES PRODUCTIVOS DIRECTAMENTE AFECTADOS POR EL CONFLICTO, contenida en el Decreto Legislativo No. 292 de fecha 23 de julio de 1992, publicado en el Diario Oficial No. 142, Tomo 316, de fecha 30 de julio del mismo año.
