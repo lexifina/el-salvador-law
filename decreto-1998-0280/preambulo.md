@@ -1,0 +1,8 @@
+DECRETO N° 280.-
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que la República de El Salvador ha ratificado el Convenio Constitutivo del Fondo Multilateral de Inversiones y el Convenio de Administración del Fondo Multilateral de Inversiones, por medio de los Decretos Legislativos Nos. 429 y 430, respectivamente, de fecha 7 de enero de 1993, publicados en el Diario Oficial N° 18, Tomo N° 318 del 27 de enero de 1993;
+II. Que el Banco Interamericano de Desarrollo (BID) en su calidad de Administrador del Fondo Multilateral de Inversiones, ha otorgado una Asistencia Técnica no Reembolsable para financiar servicios de consultoría y la adquisición de bienes necesarios para la realización del Programa de Cooperación Técnica para la Modernización de la Legislación Comercial y el Desarrollo de Métodos Alternos para la Solución de Controversias en el Area Comercial;
+III. Que en base a lo establecido en la Ley Orgánica de Administración Financiera del Estado, el Ministro de Hacienda ha suscrito con el Banco Interamericano de Desarrollo, la Carta Convenio ATN/MT-5391-ES por un monto de SEISCIENTOS SESENTA Y DOS MIL DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US$ 662,000.00), destinados a financiar el Programa de Modernización de la Legislación Comercial y Desarrollo de Métodos Alternos para la Solución de Controversias en el Area Comercial;
+IV. Que de conformidad a lo establecido en el numeral 7° del Art. 131 de la Constitución de la República, es competencia de la Asamblea Legislativa ratificar los Convenios suscritos por el Organo Ejecutivo;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
