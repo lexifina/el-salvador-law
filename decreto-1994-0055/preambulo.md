@@ -1,0 +1,6 @@
+DECRETO No. 55
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que habiendo concluído el período para el cual fueron electos los Magistrados de la Corte Suprema de Justicia, sin que se haya podido realizar la elección de los nuevos Magistrados, por falta de acuerdo entre los diputados que integran esta Asamblea; se ha creado una situación extraordinaria que afecta los procesos en trámite en la Corte Suprema de Justicia y sus Salas;
+II.- Que tal situación requiere que los términos y plazos legales o sus prórrogas en los distintos procedimientos judiciales a que se refiere el considerando anterior, deban ser suspendidos a partir de la medianoche del día 30 de junio de 1994, para no causar perjuicios a las partes, en la Administración de Justicia, constituyendo un caso de fuerza mayor.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los diputados Mercedes Gloria Salguero Gross, Ana Guadalupe Martínez Menéndez, Alfonso Aristides Alvarenga, José Rafael Machuca Zelaya, Julio Antonio Gamero Quintanilla, José Eduardo Sancho Castañeda, Gustavo Rogelio Salinas, Carmen Elena Calderon de Escalón, Walter René Araujo Morales y René Mario Figueroa Figueroa, DECRETA:
