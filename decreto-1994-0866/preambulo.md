@@ -1,0 +1,7 @@
+DECRETO No. 866
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Comisión Ejecutiva Hidroeléctrica del Río Lempa (C.E.L.) está gestionando ante el CITICORP INVESTMENT BANK LIMITED (CITIBANK N.A.), un préstamo, con garantía del EXPORT-IMPORT BANK OF THE UNITED STATES OF AMERICA, hasta por un monto de Nueve Millones Trescientos Ochenta y Cinco Mil Quinientos Treinta 00/100 Dolares de los Estados Unidos de América (US$9.385.530) recursos que serán utilizados para la reparación de las Unidades 3, 4 y 5 de la Central Térmica de Acajutla;
+II.- Que el mencionado Banco ha condicionado el otorgamiento de este Préstamo a que el Estado y Gobierno de la República de El Salvador, garantice las obligaciones que contraerá la Comisión Ejecutiva Hidroeléctrica del Río Lempa al suscribirse dicho préstamo;
+III.- Que en razón de lo antes expuesto y considerando que con la reparación de estas Tres Unidades Térmicas se tendrá mayor confiabilidad en el Sistema de Generación de CEL, es conveniente autorizar al Organo Ejecutivo en el Ramo de Hacienda, para que garantice las obligaciones que contraerá dicha Institución con el CITICORP INVESTMENT BANK LIMITED (CITIBANK N.A.) con garantía del EXPORT-IMPORT BANK OF THE UNITED STATES;
+POR TANTO:
+En uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
