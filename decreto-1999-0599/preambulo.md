@@ -1,0 +1,7 @@
+DECRETO N° 599.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que los Gobiernos de Centroamérica, Belice y República Dominicana, han celebrado el “Acuerdo Marco de Cooperación”, el cual consta de Un Preámbulo y Diecisiete Artículos, suscrito en la ciudad de Santo Domingo, República Dominicana, el 6 de noviembre de 1997, en nombre y representación del Gobierno de la República de El Salvador, por el Ministro de Relaciones Exteriores, Ingeniero Ramón E. González Giner; y en nombre y representación de los Gobiernos de Centroamérica, Belice y República Dominicana, por sus representantes debidamente autorizados;
+II.- Que con el Acuerdo Marco relacionado, los países suscriptores fortalecerán y ampliarán sus relaciones de cooperación en los ámbitos político, económico, turístico, social, cultural y medio ambiental;
+III.- Que el Organo Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo N° 258 de fecha 7 de abril de 1999, aprobó en todas sus partes el Instrumento mencionado en los Considerandos anteriores; y que éste no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
