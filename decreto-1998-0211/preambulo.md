@@ -1,0 +1,6 @@
+DECRETO Nº 211 LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que por medio de Decreto Legislativo Nº 739, de fecha 8 de diciembre de 1993, publicado en el Diario Oficial Nº 1, Tomo 322, de fecha 3 de enero de 1994, se emitió la Ley de Control de Armas de Fuego, Municiones, Explosivos y Artículos Similares;
+II. Que se hace necesario reformar la Ley en mención, incorporando un nuevo artículo que sería el 20-A, relativo a la renovación de la Licencia de Tenencia y Portación de Armas de Fuego, así también el artículo 40 en su inciso último, referente a las pruebas de funcionamiento que se realizan en las armerías;
+III. Que son procedentes dichas reformas ya que vendrán a contribuir a una mejor aplicación de la Ley de Control de Armas de Fuego, Municiones, Explosivos y Artículos Similares; POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados José Antonio Almendáriz Rivas, José Ricardo Vega Hernández, Carlos Guillermo Magaña Tovar, Mauricio González Ayala, José Manuel Melgar Henríquez, Wilber Ernesto Serrano, José Mauricio Salazar Hernández, Renato Antonio Pérez, Amado Aguiluz Aguiluz, Elizardo González Lovo, René Napoleón Aguiluz y Sigifredo Ochoa Pérez, DECRETA :
+Las siguientes reformas a la Ley de Control de Armas de Fuego, Municiones, Explosivos y Artículos Similares.
