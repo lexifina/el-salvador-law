@@ -1,0 +1,6 @@
+DECRETO No. 24
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, ha sometido a consideración para efectos de ratificación el Canje de Notas constitutivo del Acuerdo de Supresión de Visas en Pasaportes Diplomáticos, Oficiales y de Servicio, entre los Gobiernos de las Repúblicas de El Salvador y Rumanía, el cual consta de un Preámbulo y ocho artículos; suscrito en la ciudad de Bucarest, Rumanía, el 4 de abril del corriente año, en nombre y representación del Gobierno de la República de El Salvador, por el Ministro de Relaciones Exteriores en ese entonces, Licenciado Miguel Ángel Salaverría A., juntamente con el señor Ministro de Asuntos Exteriores del Gobierno de Rumanía, Don Teodoro Melescanu; que fue aprobado por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo No. 355 de fecha 23 de mayo de 1994;
+II.- Que el Canje de Notas a que se hace referencia en el Considerando anterior, no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7° de la Constitución, en relación con el Art. 168 ordinal 4° de la misma, DECRETA:
