@@ -1,0 +1,7 @@
+DECRETO No. 80
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador, como miembro de la Organización Internacional del Trabajo, ha adoptado diferentes Convenios en materia laboral, adquiriendo el compromiso de ratificarlos, así como también adecuar su legislación secundaria a la filosofía de los mismos;
+II.- Que con fecha 25 de junio de 1969, la Conferencia General de la Organización Internacional del Trabajo, adoptó el Convenio No. 129, relativo a la Inspección del Trabajo en la Agricultura, el cual tiene como objetivo el de adoptar Normas Internacionales Generales Sobre la Inspección del Trabajo en la Agricultura, Convenio que podrá ser citado como el Convenio sobre la Inspección del Trabajo (Agricultura), 1969;
+III.- Que el Convenio en cuestión fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo No. 261 de fecha 12 de abril del presente año, y que consta de un preámbulo y 35 artículos y por no contradecir ninguna disposición de la Constitución de la República, es procedente su ratificación.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República por medio del Viceministro de Relaciones Exteriores encargado del Despacho; y en atención a lo establecido en los Arts. 131 ordinal 7° y 168 ordinal 4° de la Constitución, DECRETA:
