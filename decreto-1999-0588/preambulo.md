@@ -1,0 +1,7 @@
+DECRETO N° 588.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador mediante Acuerdo Ejecutivo N° 263 de fecha 7 de abril del corriente año, se adhirió al “Convenio de la Organización de Aviación Civil Internacional (OACI) sobre la Marcación de Explosivos Plásticos para los Fines de Detección”, hecho en Montreal, Canadá, el 1 de marzo de 1991, el cual consta de Un Preámbulo, Quince Artículos y Un Anexo Técnico;
+II.- Que el Convenio de la Organización de Aviación Civil Internacional, fue suscrito por las Partes conscientes de las repercusiones de los actos de terrorismo en la seguridad internacional, expresando su profunda preocupación por esos hechos destinados a destruir aeronaves, otros medios de transporte y demás objetivos, y que los explosivos plásticos han sido utilizados para cometerlos;
+III.- Que el Organo Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo N° 264 de fecha 7 de abril de 1999, aprobó en todas sus partes el Instrumento mencionado en los Considerandos anteriores; y que éste no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
