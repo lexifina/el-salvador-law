@@ -1,0 +1,8 @@
+DECRETO No. 50
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador y el de los Estados Unidos de América, a través de la Agencia para el Desarrollo Internacional (AID), celebraron el Convenio de Donación AID No. 519-0388, denominado "DESARROLLO MUNICIPAL";
+II.- Que la Enmienda No. 2 al Convenio de Donación arriba mencionado, por un monto de UN MILLON DE DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US$1,000.000), la cual consta de un Preámbulo, tres Numerales y un Anexo, fue suscrita en esta ciudad el 25 de abril del corriente año, en nombre y representación del Gobierno de la República de El Salvador, por la entonces Ministra de Planificación y Coordinación del Desarrollo Económico y Social, Licenciada Mirna Liévano de Marquez y por el Presidente de la Corporación de Municipalidades de la República de El Salvador (COMURES), Ingeniero Abraham López Deleón, y en nombre y representación del Gobierno de los Estados Unidos de América por el señor Charles E. Costello, Director de la Misión USAID en El Salvador;
+III.- Que dicha Enmienda No. 2 fue aprobada en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo No. 9 de fecha 6 de junio de 1994;
+IV.- Que la Enmienda al Convenio de Donación a que se hace referencia en los Considerandos anteriores, no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7° de la Constitución, en relación con el Art. 168 ordinal 4° de la misma, DECRETA:
