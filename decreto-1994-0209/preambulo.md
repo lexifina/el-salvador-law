@@ -1,0 +1,8 @@
+DECRETO No. 209
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que dentro del Plan Económico y Social que impulsa el Gobierno de la República, establece como prioritaria la atención a los sectores vulnerables que se encuentran en situación de pobreza extrema a fin de estimular el desarrollo personal y comunitario de estos grupos de la población;
+II.- Que el programa a desarrollar por el Fondo de Inversión Social tiene como objetivo mitigar la situación de pobreza ejecutando pequeñas obras de infraestructura en los sectores educación, salud, agua y saneamiento, electrificación, incluyendo proyectos de desarrollo comunitario, medio ambiente y otros, se apoyara la redefinición del Programa Institucional y la sostenibilidad financiera del Fondo de Inversión Social a fin de permitir la transformación de la Institución en la principal entidad ejecutora de pequeñas obras sociales y productivas;
+III.- Que el Gobierno de la República, con el propósito de darle cumplimiento a los objetivos mencionados anteriormente, ha negociado con el Banco Interamericano de Desarrollo (BID) y con el Kreditanstalt Fur Wiederaufbau (KFW) de la República Federal de Alemania, la suscripción de dos préstamos, los que se destinarán a financiar los proyectos sociales a cargo del Fondo de Inversión Social de El Salvador (FIS);
+IV.- Que en razón de lo antes expuesto y en base a lo estipulado en el inciso 11) del Artículo 148 de la Constitución de la República, es conveniente autorizar al Órgano Ejecutivo en el Ramo de Hacienda para que suscriba los Contratos de Préstamo antes mencionados;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
