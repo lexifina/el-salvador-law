@@ -1,0 +1,8 @@
+DECRETO No. 153
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que el Gobierno de la República de El Salvador y el Gobierno de la República Federal de Alemania, han celebrado el Canje de Notas denominado: "PROGRAMA DE INTEGRACION Y FOMENTO DE EMPLEO", el cual consta de un Preámbulo y siete Numerales, suscrito en la ciudad de San Salvador, República de El Salvador, el 19 de mayo de 1994, en nombre y representación del Gobierno de la República de El Salvador por el entonces Ministro de Relaciones Exteriores, Don Miguel A. Salaverría A. juntamente con el señor Embajador de la República Federal de Alemania, acreditado en País, Doctor Richard Giesen;
+II. Que el objetivo principal del Programa en referencia, es integrar o reintegrar a los ex-combatientes desmovilizados pertenecientes al FMLN y a las Fuerzas Armadas a la vida económica y social; aportando hasta por 36 meses expertos en la materia, cuyos costos serán a cargo del Gobierno de Alemania;
+III. Que el Canje de Notas, fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo No. 238 de fecha 26 de septiembre del corriente año;
+IV. Que el Canje de Notas a que se hace referencia en los Considerandos anteriores, no contiene ninguna disposición que contravenga la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
