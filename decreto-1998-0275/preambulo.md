@@ -1,0 +1,7 @@
+DECRETO N° 275.-
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que el Gobierno de la República de El Salvador y el Gobierno de la República del Paraguay, han celebrado el Acuerdo Marco de Cooperación Económica, Técnica y Científica, el cual consta de Un Preámbulo y Doce Artículos, suscrito en esta ciudad el 30 de enero del corriente año, en nombre y representación del Gobierno de la República de El Salvador por el Ministro de Relaciones Exteriores, Ingeniero Ramón E. González Giner; y, en nombre y representación del Gobierno de la República del Paraguay, por el Ministro de Relaciones Exteriores, Don Rubén Melgarejo Lanzoni;
+II. Que este Acuerdo Marco de Cooperación ha sido suscrito con el deseo común de estrechar e incrementar los lazos de amistad entre ambos países y decididos a promover entre sus respectivos Gobiernos una cooperación en todos los sectores y a emplear para tal efecto todos los medios que están a su disposición;
+III. Que el instrumento arriba relacionado, fue aprobado en todas sus partes, por el Organo Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo N° 258 de fecha 11 de marzo de 1998 y que no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
