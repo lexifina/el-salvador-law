@@ -1,0 +1,7 @@
+DECRETO N° 563.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que los Gobiernos de las Repúblicas de El Salvador y Nicaragua, han celebrado el “Acuerdo de Cooperación Turística”, el cual consta de Un Preámbulo y Catorce Artículos, suscrito en esta ciudad el 23 de enero del corriente año, en nombre y representación del Gobierno de la República de El Salvador, por el Ministro de Relaciones Exteriores, Ingeniero Ramón E. González Giner; y, en nombre y representación del Gobierno de la República de Nicaragua, por su representante debidamente autorizado;
+II.- Que dicho Acuerdo tiene por finalidad incrementar el flujo de turistas entre los dos países, a fin de promover el conocimiento recíproco de sus respectivas historias, modos de vida y culturas, teniendo en cuenta la necesidad de preservar el patrimonio nacional, incluyendo los aspectos culturales y medio ambientales;
+III.- Que el Organo Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo N° 134 de fecha 18 de febrero de 1999, aprobó en todas sus partes el Acuerdo de Cooperación Turística mencionado; y, que éste no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
