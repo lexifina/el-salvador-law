@@ -1,0 +1,7 @@
+DECRETO No. 206
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Convenio Constitutivo del Banco Interamericano de Desarrollo, suscrito en Washington, D.C., Estados Unidos de América, el 8 de abril de 1959, fue aprobado en todas sus partes por el Poder Ejecutivo en el Ramo de Relaciones Exteriores, por Acuerdo N1 512 de fecha 19 de octubre de 1959 y ratificado mediante Decreto Legislativo N1 2966 del 16 de noviembre de 1959, publicado en el Diario Oficial N1 222, Tomo 185 del 4 de diciembre de 1959, establece que el capital autorizado del BID puede ser incrementado por su Asamblea de Gobernadores;
+II.- Que la Asamblea de Gobernadores del expresado Banco aprobó en la Trigésima Quinta Reunión celebrada en Guadalajara, México, del 11 al 13 de abril de 1994, el informe sobre el Octavo Aumento General de Recursos del Banco Interamericano de Desarrollo, en el cual se propone un incremento tanto para los recursos generales, como para los recursos de Operaciones Especiales;
+III.- Que de conformidad a lo antes señalado, corresponde a El Salvador suscribir 12.625 acciones de capital autorizado, de las cuales 269 son pagaderas en efectivo por un monto de US$ 3.245.063.31, y aportar una contribución para el Fondo de Operaciones Especiales hasta por US$ 539.073.00;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
