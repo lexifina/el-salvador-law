@@ -1,0 +1,6 @@
+DECRETO N° 250.-
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que de conformidad al Art. 131 ordinal 22 de la Constitución de la República, corresponde a la Asamblea Legislativa la facultad de conceder, a personas o poblaciones, títulos, distinciones honoríficas y gratificaciones compatibles con la forma de gobierno establecida;
+II. Que, habida cuenta del esfuerzo y el dinamismo emprendedor de los habitantes de Santa Isabel Ishuatán, Departamento de Sonsonate, en la actualidad dicha población ha alcanzado notable progreso, ya que cuenta con todos los servicios públicos, necesarios para alcanzar el bienestar y el desarrollo de sus habitantes;
+III. Que en razón de lo anterior, el referido pueblo de Santa Isabel Ishuatán, en el Departamento de Sonsonate, reúne las condiciones suficientes para continuar mejorando el nivel de vida de sus habitantes, y se hace acreedor a una mejora en su categoría; POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados José Antonio Almendáriz Rivas, Donald Ricardo Calderón Lam, Rubén Orellana, Raúl Mijango, Ismael José Iraheta Troya, Nelson Funes, Mariela Peña Pinto, María Ofelia Navarrete de Dubón, María Isbela Morales, Carlos Alberto Escobar, Roberto Serrano Alfaro y Sonia Ponce, DECRETA:
