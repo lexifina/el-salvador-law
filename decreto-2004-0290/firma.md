@@ -1,0 +1,7 @@
+DADO EN EL PALACIO LEGISLATIVO: San Salvador, a los diez días del mes de marzo del año dos mil cuatro.
+CIRO CRUZ ZEPEDA PEÑA,
+PRESIDENTE.
+JOSÉ MANUEL MELGAR HENRÍQUEZ, JOSÉ FRANCISCO MERINO LÓPEZ, REPUBLICA DE EL SALVADOR ─── AMERICA CENTRAL ASAMBLEA LEGISLATIVA ─── INDICE LEGISLATIVO 2 PRIMER VICEPRESIDENTE. TERCER VICEPRESIDENTE. MARTA LILIAN COTO VDA. DE CUÉLLAR, ELIZARDO GONZÁLEZ LOVO, PRIMERA SECRETARIA. TERCER SECRETARIO. ELVIA VIOLETA MENJÍVAR, CUARTA SECRETARIA.
+Casa Presidencial: San Salvador, a los dieciocho días del mes de marzo del año dos mil cuatro. PUBLÍQUESE,
+Francisco Guillermo Flores Pérez, Presidente de la República.
+Conrado López Andreu, Ministro de Gobernación.
