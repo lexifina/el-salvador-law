@@ -1,0 +1,8 @@
+DECRETO N° 723.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo N° 451 del 15 de octubre de 1998, publicado en el Diario Oficial N° 214, Tomo N° 341 del 17 de noviembre del mismo año, se facultó al Organo Ejecutivo en el Ramo de Hacienda para que por medio de Titular o del representante que él designe, suscribiera en nombre del Estado y Gobierno de la República de El Salvador, un Contrato de Garantía que garantiza las obligaciones que contraiga el Banco Multisectorial de Inversiones (BMI) con el Kreditanstalt für Wiederaufbau (KfW), por un monto de OCHO MILLONES DE MARCOS ALEMANES (DM8,000,000.00), recursos que se destinarán para financiar créditos de mediano y largo plazo de la micro y pequeña empresa en el área rural y urbana, por medio de la Financiera Calpiá S.A. de C.V.;
+II.- Que el referido Contrato de Préstamo y Garantía fue suscrito el 25 de noviembre de 1998 en la República Federal de Alemania y el día 10 de diciembre de 1998 en San Salvador, en correspondencia a la autorización conferida por el Decreto Legislativo N° 451 antes relacionado y por Acuerdo N° 1080 de fecha 3 de diciembre de 1998, emitido por el Organo Ejecutivo en el Ramo de Hacienda;
+III.- Que los fondos provenientes del préstamo suscrito con KfW, servirán para contribuir al desarrollo de la micro y pequeña empresa del país, el cual está dentro de los objetivos señalados en la Ley de Creación del BMI;
+IV.- Que procede aprobar en todas sus partes el Contrato de Préstamo y de Garantía que han sido sometidos a esta Asamblea, para lo cual se ha dado cumplimiento a lo establecido en el Art. 148 de la Constitución de la República.
+POR TANTO,
+en uso de sus facultades constitucionales, DECRETA:
