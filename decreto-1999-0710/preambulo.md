@@ -1,0 +1,7 @@
+DECRETO N° 710.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador y el Gobierno del Ecuador, han celebrado el Canje de Notas concerniente a un Acuerdo para la Supresión de Visas en los Pasaportes Ordinarios, el cual consta de Un Preámbulo y Ocho Numerales, fue suscrito en esta ciudad el 9 de julio del corriente año, en nombre y representación del Gobierno de la República de El Salvador, por la Ministra de Relaciones Exteriores, Licenciada María Eugenia Brizuela de Avila; y en nombre y representación del Gobierno del Ecuador, por el Ministro de Relaciones Exteriores, Doctor Benjamín Ortíz Brennan;
+II.- Que el objeto del Acuerdo, es el de facilitar los viajes de los nacionales de ambos Estados, conforme a disposiciones que se establecen, tendientes a fortalecer los tradicionales lazos de amistas y colaboración entre los dos países;
+III.- Que el Instrumento arriba señalado, fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo N° 915 de fecha 30 de agosto del corriente año y no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
