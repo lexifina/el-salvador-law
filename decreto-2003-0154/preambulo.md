@@ -1,0 +1,7 @@
+ASAMBLEA LEGISLATIVA ))) INDICE LEGISLATIVO 1 4444444444444444444444444444444444444444444444444444444444444 DECRETO No. 154.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad a lo que establece el Art. 248 de la Constitución, La Asamblea Legislativa del anterior período, con fecha 6 de septiembre año 2001, acordó agregar un ordinal 5° al Art. 133 de la misma Constitución, emitiéndose en consecuencia el Acuerdo de Reformas Constitucionales correspondiente, que fue publicado en el Diario Oficial No. 171, Tomo 352, del 12 del mismo mes y año.
+II.- Que de conformidad a la Disposición Constitucional citada en el Considerando que antecede, la mencionada reforma para que pueda ser decretada, deberá ser ratificada por la actual Legislatura.
+III.- Que, habiéndose cumplido con los requisitos que la misma Constitución establece para su modificación, es procedente ratificar la reforma a su Art. 133, en el sentido que también tendrán iniciativa de Ley el Parlamento Centroamericano, por medio de los Diputados del Estado de El Salvador que lo conforman, en materia relativa a la integración del Istmo Centroamericano, a que se refiere el Art. 89 de la Constitución, de igual manera, y en la misma materia, los Diputados del Estado de El Salvador, que conforman el Parlamento Centroamericano.
+POR TANTO,
+en uso de sus facultades Constitucionales y habiéndose dado cumplimiento a lo preceptuado en el Artículo 248 de la Constitución, DECRETA, SANCIONA Y PROMULGA, la reforma Constitucional siguiente:
