@@ -1,0 +1,9 @@
+DECRETO No. 72
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador, como parte signataria de la Organización Internacional del Tabajo, ha adquirido el compromiso de ratificar y adecuar su legislación secundaria al espíritu de los diferentes convenios que en materia laboral hayan adoptado en la Conferencia General de la Organización Internacional del Trabajo, los Miembros Integrantes de la misma;
+II.- Que en razón de lo establecido en el Considerando anterior, la Conferencia General de la Organización Internacional del Trabajo, con fecha 28 de junio de 1930, adoptó el Convenio No. 29 Relativo al Trabajo Forzoso u Obligatorio, el que podrá ser citado como el Convenio sobre el Trabajo Forsozo, 1930, y que será sometido a ratificación Internacional del Trabajo, de la cual nuestro país forma parte;
+III.- Que el referido Convenio tiene como objetivo el de que se tablezcan políticas o medidas que eviten imponer o dejar que se imponga el trabajo forzoso u obligatorio en provecho de particulares de compañías o de personas jurídicas de carácter privado;
+IV.- Que dicho convenio fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo No. 253, de fecha 12 de abril del presente año, el cual consta de un preámbulo y de 33 artículos;
+V.- Que el convenio a que se hace referencia en los Considerandos anteriores, no contiene ninguna disposición que contraríe la Constitución de la República, por lo que es procedente su ratificación.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República por medio del Viceministro de Relaciones Exteriores encargado del Despacho; y de conformidad a lo expuesto en los Art. 131 ordinal 71 de la Constitución, en relación con el Art. 168 ordinal 41 de la misma, DECRETA:
