@@ -1,0 +1,9 @@
+DECRETO N° 552.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que conforme al Art. 53, de la Constitución, el derecho a la educación y a la cultura es inherente a la persona humana, en consecuencia, es obligación y finalidad primordial del Estado su conservación y difusión;
+II.- Que por Acuerdo Ejecutivo en el Ramo del Interior N° 430, de fecha 23 de junio de 1998, publicado en el Diario Oficial N° 145, Tomo N° 340 de fecha 10 de agosto del mismo año, se aprobaron los Estatutos de la Asociación denominada “MUSEO DE LOS NIÑOS”, y se le otorgó el carácter de persona jurídica;
+III.- Que la referida Asociación tiene por finalidad principal propiciar las condiciones necesarias para la creación, funcionamiento y mantenimiento del museo de niños, así como para realizar todas aquellas actividades conexas para su desarrollo y funcionamiento;
+IV.- Que el Consejo de Ministros del Gobierno de la República, a solicitud de la Secretaría Nacional de la Familia; Institución que apoya y está participando en el proyecto de construcción del museo de los niños, conjuntamente con la Asociación del mismo nombre; en sesión del día doce de noviembre de mil novecientos noventa y ocho, aprobó el otorgamiento en comodato a favor de la Asociación “MUSEO DE LOS NIÑOS”, una porción de terreno de un área de dieciséis mil novecientos setenta y dos punto diecisiete metros cuadrados que será desmembrada de un inmueble propiedad del Estado situado entre la Avenida Roosevelt y veinticinco Avenida Sur, de esta Ciudad;
+V.- Que conforme el Art. 233, de la Constitución los bienes raíces de la Hacienda Pública y los de uso público sólo podrán donarse o darse en usufructo, comodato o arrendamiento, con autorización del Organo Legislativo, a entidades de utilidad general;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de la Presidencia, DECRETA:
