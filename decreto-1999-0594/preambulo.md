@@ -1,0 +1,7 @@
+DECRETO N° 594.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo N° 606 de fecha 28 de julio de 1993, publicado en el Diario Oficial N° 166, Tomo N° 320 del 7 de septiembre del mismo año, se aprobó el Contrato de Préstamo N° 731/OC-ES, suscrito el 23 de junio de 1993, con el Banco Interamericano de Desarrollo (BID), por un monto de CIENTO VEINTICINCO MILLONES NOVECIENTOS MIL DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US $125,900,000.00), para llevar a cabo el “Programa Sector Eléctrico del Plan de Reconstrucción Nacional”, a cargo de la Comisión Ejecutiva Hidroeléctrica del Río Lempa (CEL);
+II.- Que del monto arriba mencionado, la CEL no utilizará la cantidad de DIECINUEVE MILLONES SETECIENTOS CINCUENTA MIL DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US $19,750,000.00), por lo que el Organo Ejecutivo en el Ramo de Hacienda, negoció con el BID la reorientación de dichos recursos para la ejecución del “Componente de Emergencia” a ser ejecutado por el Ministerio de Obras Públicas, Transporte, y Vivienda y Desarrollo Urbano, el cual comprende la rehabilitación de caminos rurales, así como la limpieza, desazolve y reparación de obras de arte de las vías pavimentadas que resultaron afectadas por la tormenta tropical Mitch;
+III.- Que procede aprobar la Enmienda al Contrato de Préstamo N° 731/OC-ES, suscrita el 26 de enero de 1999, que ha sido sometida a esta Asamblea Legislativa;
+POR TANTO,
+en uso de sus facultades constitucionales, DECRETA:
