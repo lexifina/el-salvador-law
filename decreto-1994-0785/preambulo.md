@@ -1,0 +1,2 @@
+DECRETO No. 785
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, Vista la solicitud de la Lic. Berta Rosario Díaz de Avalos, relativa a que se le exonere del cargo de Consejal Suplente del Consejo Nacional de la Judicatura para el que fue elegida por Decreto Legislativo N° 516, de fecha 29 de abril de 1993, publicado en el Diario Oficial N° 79, Tomo 319 del mismo mes y año, por haber dejado de pertenecer al Sector que la propuso, en uso de sus facultades constitucionales, DECRETA:
