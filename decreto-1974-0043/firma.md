@@ -1,0 +1,14 @@
+DADO EN EL SALÓN DE SESIONES DE LA ASAMBLEA LEGISLATIVA; PALACIO NACIONAL: San Salvador, a los treinta días del mes de julio de mil novecientos setenta y cuatro.
+RUBÉN ALFONSO RODRÍGUEZ,
+PRESIDENTE.
+ALFREDO MORALES RODRÍGUEZ, BENJAMÍN WILFRIDO NAVARRETE, VICE-PRESIDENTE. VICE-PRESIDENTE. MARIO S. HERNÁNDEZ SEGURA,
+PRIMER SECRETARIO.
+JOSÉ FRANCISCO GUERRERO, MATÍAS ROMERO, PRIMER SECRETARIO. PRIMER SECRETARIO. MAURICIO GUTIÉRREZ CASTRO,
+SEGUNDO SECRETARIO.
+PABLO MATEU LLORT, VÍCTOR MANUEL MENDOZA VAQUEDANO, SEGUNDO SECRETARIO. SEGUNDO SECRETARIO. CASA PRESIDENCIAL: San Salvador, a los nueve días del mes de agosto de mil novecientos setenta y cuatro.
+PUBLÍQUESE,
+ARTURO ARMANDO MOLINA, Presidente de la República.
+AGUSTÍN MARTÍNEZ VARELA, Ministro del Interior.
+JULIO ERNESTO ASTACIO, Ministro de Salud Pública y Asistencia Social. PUBLÍQUESE EN EL DIARIO OFICIAL.
+════════════════════════════════════════════════════════════
+ASAMBLEA LEGISLATIVA ─ REPÚBLICA DE EL SALVADOR 3 ═════════════════════════════════════════════════════════════ JOSÉ ENRIQUE SILVA, Ministro de la Presidencia de la República.
