@@ -1,0 +1,8 @@
+DECRETO N° 722.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República está haciendo esfuerzos para buscar los medios y recursos necesarios para darle continuidad a los procesos educativos iniciados con el Proyecto de Modernización a la Educación básica, en los diferentes niveles y modalidades que forman el sistema educativo;
+II.- Que para la consecución de lo expuesto en el considerando anterior, el Organo Ejecutivo, ha realizado gestiones ante el Banco Internacional de Reconstrucción y Fomento (BIRF), para el otorgamiento de un préstamo hasta por un monto de OCHENTA Y OCHO MILLONES DE DOLARES DE LOS ESTADOS UNIDOS DE AMERICA (US $88,000,000.00), recursos que se destinarán para financiar el proyecto “Programa de Reforma Educativa Fase I”;
+III.- Que el “Programa de Reforma Educativa Fase I”, a ser ejecutado por el Ministerio de Educación, tiene el propósito de extender la cobertura de la educación preescolar y básica, mejorar la calidad de la educación, fortalecer y modernizar la capacidad Institucional del prestatario de proveer servicios de educación en áreas rurales y urbanas marginales a nivel nacional;
+IV.- Que en razón de lo antes expuesto y de conformidad a lo establecido en el Art. 148 de la Constitución de la República, es conveniente autorizar al Organo Ejecutivo en el Ramo de Hacienda para que suscriba el Convenio de Préstamo respectivo, con el Banco Internacional de Reconstrucción y Fomento (BIRF);
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, DECRETA:
