@@ -1,0 +1,1 @@
+ARTICULO UNICO.- Acéptase a partir de esta fecha, la renuncia del Licenciado Carlos Antonio Mejía Alferez del cargo de Primer Designado a la Presidencia de la República, para el cual fue electo mediante Decreto Legislativo N° 39-BIS, del 23 de junio del corriente año, publicado en el Diario Oficial N° 140, Tomo 324, del 27 de julio de 1994.
