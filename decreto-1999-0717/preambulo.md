@@ -1,0 +1,8 @@
+DECRETO N° 717.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo N° 536 del 27 de enero de 1999, publicado en el Diario Oficial N° 30, tomo N° 342 del 12 de febrero del mismo año, se aprobó la nueva Ley del Consejo Nacional de la Judicatura, que define su naturaleza como una institución administrativa de Derecho Público, con personalidad jurídica, independiente en el ejercicio de sus atribuciones, así como en lo financiero, administrativo y presupuestario;
+II.- Que es necesario adecuar el Decreto Legislativo N° 536 del 27 de enero de 1999, con la normativa constitucional e introducir las reformas pertinentes a fin de viabilizar su vigencia, volver eficiente la operatividad del Consejo y que éste disponga de un Presupuesto Especial como institución independiente, según lo establecen en el Art. 187 de la Constitución y el Art. 2 de la Ley del Consejo Nacional de la Judicatura;
+III.- Que el Consejo Nacional de la Judicatura desempeña una función primordial para fortalecer la administración de justicia, mediante la proposición de candidatos idóneos para los cargos de Magistrados y Jueces, así como mejorando la formación profesional de los mismos y de los demás funcionarios judiciales, por lo que debe gozar de las prerrogativas presupuestarias que le correspondían cuando para esos efectos se le consideró formando parte del Organo Judicial;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados Norma Fidelia Guevara de Ramirios y Jorge Alberto Villacorta Muñoz, DECRETA las siguientes:
+REFORMAS A LA LEY DEL CONSEJO NACIONAL DE LA JUDICATURA
