@@ -1,0 +1,8 @@
+DECRETO No. 144
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo N° 796 de fecha 2 de febrero de 1994, publicado en el Diario Oficial N° 53, Tomo 322 del 16 de marzo del mismo año, se emitió la Ley de Disolución y Liquidación del Instituto Nacional del Café (INCAFE), creado éste mediante Decreto Legislativo N° 75 de fecha 20 de diciembre de 1979, publicado en el Diario Oficial sin número, Tomo 266 del 2 de enero de 1980, ordenándose para el primero de los decretos señalados, su liquidación dentro de un plazo no mayor de 6 meses, contados a partir de la vigencia del mismo.
+II.- Que el plazo de liquidación del Instituto Nacional del Café (INCAFE), a que se hace referencia en el considerando anterior, a criterio de la Delegación de Auditoría de la Corte de Cuentas de la República, destacada en el referido Instituto, no es ni ha sido suficiente para realizar las operaciones de liquidación, existiendo a la fecha, operaciones y actividades pendientes de efectuar por parte de esa Delegación, para cumplir con una obligación de ente fiscalizador y garante de las líneas del Estado.
+III.- Que en razón de lo señalado en el considerando precedente y con el objeto de que el proceso de Disolución y Liquidación del Instituto Nacional del Café INCAFE sea transparente y cristalino, se hace necesario prorrogar por 60 días más a partir del 24 de septiembre del presente año, el proceso de liquidación de la referida Institución, a efecto de que la Delegación Auditora de la Corte de Cuentas de la República destacada en el INCAFE, cumpla con su función para los efectos de Ley.
+POR TANTO,
+En uso de sus facultades constitucionales y a iniciativa de la Diputada Carmen Elena Calderón de Escalón.
+DECRETA:
