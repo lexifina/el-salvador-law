@@ -1,0 +1,1 @@
+ARTICULO UNICO.- Declárase legalmente instalada la Asamblea Legislativa, que fungirá durante el período comprendido del uno de mayo de mil novecientos noventa y cuatro al treinta de abril de mil novecientos noventa y siete.
