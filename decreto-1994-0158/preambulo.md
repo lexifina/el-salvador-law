@@ -1,0 +1,8 @@
+DECRETO No. 158
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Gobierno de la República de El Salvador y el Gobierno de la República Federal de Alemania, han celebrado el Convenio sobre Cooperación Financiera, denominado: "PROYECTO DE CONSTRUCCION DE VIVIENDAS POPULARES PARA EX-COMBATIENTES", el cual consta de un Preámbulo y seis Artículos, suscrito en la ciudad de San Salvador, República de El Salvador, el 10 de junio de 1994, en nombre y representación del Gobierno de la República de El Salvador por el Ministro de Relaciones Exteriores, Doctor Oscar Alfredo Santamaría juntamente con el señor Embajador de la República Federal de Alemania, acreditado en el País, Doctor Richard Giesen;
+II.- Que el Convenio mencionado consiste en otorgar al Gobierno de El Salvador la posibilidad de obtener del KREDITANSTALT FUR WIEDERAUDBAU (Instituto de Crédito para la Reconstrucción), FRANKFURT/MAIN, aportaciones financieras por un valor total de hasta 23.000.000 DM, para los ex-combatientes del FMLN y ex-soldados, lo que viene a coadyuvar a la reinserción a la sociedad civil de tales personas;
+III.- Que el Convenio arriba mencionado, fue aprobado en todas sus partes por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, por medio del Acuerdo No. 237 de fecha 26 de septiembre del corriente año;
+IV.- Que dicho Convenio no contiene ninguna disposición que contravenga la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7° de la Constitución, en relación con el Art. 168 ordinal 4° de la misma, DECRETA:
