@@ -1,0 +1,7 @@
+DECRETO N° 208.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que el Gobierno de la República de El Salvador y el Gobierno de la República de Francia, han celebrado el Acuerdo relativo a la Concesión de una Ayuda Alimentaria de 4,000 Toneladas de Trigo Candeal, el cual consta de Un Preámbulo y Doce Artículos, suscrito en esta ciudad el 18 de noviembre de 1997, en nombre y representación del Gobierno de El Salvador por el Ministro de Relaciones Exteriores, Ingeniero Ramón E. González Giner; y, en nombre y representación del Gobierno de la República de Francia, por la Embajadora acreditada en este país, Doña Michele Dantec;
+II. Que los fondos de contrapartida que se constituyan de la venta, en el mercado local, de los suministros recibidos en virtud del presente Acuerdo, previa decisión conjunta de ambos Gobiernos, serán utilizados para el financiamiento de proyectos de desarrollo económico y social en base a las prioridades del Gobierno de El Salvador;
+III. Que el mencionado Instrumento fue aprobado en todas sus partes, por el Órgano Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo N° 1319 de fecha 22 de diciembre de 1997 y que no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
