@@ -1,0 +1,7 @@
+DECRETO No. 58
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que los Gobiernos de El Salvador y Colombia celebraron el Canje de Notas Constitutivo de un Acuerdo para el Establecimiento de la Comisión Binacional Permanente, entre ambos países, suscrito en esta ciudad el 28 de enero del corriente año, en nombre y representación del Gobierno de la República de El Salvador por el entonces Ministro de Relaciones Exteriores, Don Miguel Angel Salaverría A., juntamente con la señora Ministra de Relaciones Exteriores de la República de Colombia, Doña Noemi Sanin de Rubio, el cual consta de un Preámbulo y seis numerales;
+II.- Que la Comisión Binacional Permanente será la instancia y el foro de negociación bilateral en la que se definirán los lineamientos generales de colaboración, cooperación y complementación entre ambos Gobiernos;
+III.- Que el Canje de Notas Constitutivo de un Acuerdo para el Establecimiento de la Comisión Binacional Permanente arriba mencionado, fue aprobado en todas sus partes por el Órgano ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo No. 226 de fecha 23 de marzo del año en curso;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad con el Art. 131 ordinal 7° de la Constitución, en relación con el Art. 168 ordinal 4° de la misma, DECRETA:
