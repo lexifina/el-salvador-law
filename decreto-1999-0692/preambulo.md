@@ -1,0 +1,7 @@
+DECRETO N° 692.-
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo Nº 627 de fecha 26 de mayo de 1999, publicado en el Diario Oficial Nº 99, Tomo Nº 343, de fecha 28 del mismo mes y año, fue creado el Fondo Solidario para la Familia Microempresaria;
+II.- Que el artículo 39 de la referida Ley establece que en un plazo de 90 días, a partir de la vigencia de la misma, el Presidente de la República emitirá los reglamentos necesarios para la aplicación y funcionamiento de la misma;
+III.- Que a fin de poder armonizar los reglamentos relacionados, con lo que se pretende establecer en la Ley de Intermediarios Financieros no Bancarios, la cual se encuentra pendiente de aprobación, a efecto de que no se de contradicción alguna entre ambos cuerpos legales, se hace necesario prorrogar el plazo que el Presidente de la República tiene para la aprobación del o los reglamentos de aplicación por 60 días más;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados Juan Duch Martínez, Alfonso Arístides Alvarenga, Sílfide Maritza Pleytez de Ramírez, Julio Antonio Gamero Quintanilla, José Mauricio Salazar Hernández, Alejandro Dagoberto Marroquín, Jorge Alberto Barrera, Roman Ernesto Guerra Romero, Jorge Luis Márquez, Rubén Ignacio Zamora, Kirio Waldo Salgado Mina, Olga Elizabeth Ortíz Murillo, Rita Cartagena de Escobar, Carlos Alberto Escobar, Mariella Peña Pinto, José Ricardo Vega y Rosario González, DECRETA:
