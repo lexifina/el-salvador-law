@@ -1,0 +1,8 @@
+DECRETO N° 232.-
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que el Gobierno de la República de El Salvador y el Gobierno de la República Federal de Alemania han celebrado el Convenio Sobre Cooperación Financiera proyecto “Fondo de Inversión Social II”, el cual consta de Un Preámbulo y Cinco Artículos, suscrito en la ciudad de Bonn, República Federal de Alemania, el 10 de diciembre de 1997, en nombre y representación del Gobierno de la República de El Salvador por el Ministro de Relaciones Exteriores, Ingeniero Ramón E. González Giner; y, en nombre y representación del Gobierno de la República Federal de Alemania por su representante debidamente autorizado;
+II. Que dicho Convenio ha sido celebrado con el deseo de consolidar e intensificar las relaciones amistosas de ambos Gobiernos, a través de una cooperación financiera que contribuya al desarrollo social y económico en la República de El Salvador;
+III. Que el monto al que asciende la Cooperación Financiera es de QUINCE MILLONES DE MARCOS ALEMANES (DM 15,000,000.00) equivalentes al cambio oficial vigente;
+IV. Que el mencionado Convenio de Cooperación Financiera fue aprobado en todas sus partes, por el Organo Ejecutivo en el Ramo de Relaciones Exteriores, mediante Acuerdo N° 161 de fecha 16 de febrero de 1998 y que no contiene ninguna disposición contraria a la Constitución, por lo que es procedente su ratificación;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
