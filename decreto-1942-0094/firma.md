@@ -1,0 +1,5 @@
+DADO EN EL SALÓN DE SESIONES DE LA ASAMBLEA NACIONAL LEGISLATIVA; PALACIO NACIONAL: San Salvador, a los nueve días del mes de diciembre de mil novecientos cuarenta y dos. CÉSAR CIERRA, VICEPRESIDENTE.
+JOSÉ E. PACHECO, MIGUEL A. SORIANO, PRIMER SECRETARIO. SEGUNDO SECRETARIO. PALACIO NACIONAL: San Salvador, a los nueve días del mes de diciembre de mil novecientos cuarenta y dos.
+Ejecútese,
+MAXIMILIANO H. MARTÍNEZ, PRESIDENTE CONSTITUCIONAL.
+R. V. MORALES, MINISTRO DE AGRICULTURA Y GANADERIA.
