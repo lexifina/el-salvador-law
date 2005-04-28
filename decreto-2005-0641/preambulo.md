@@ -1,0 +1,9 @@
+DECRETO N° 641
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que de conformidad al ordinal 22º, artículo 131 de la Constitución, es facultad de este Órgano del Estado, conceder a personas o poblaciones, títulos, distinciones honoríficas y gratificaciones compatibles con la forma de gobierno establecida, por servicios relevantes prestados a la Patria.
+II. Que, así mismo, el artículo 6, literal b) de la Ley de Distinciones Honoríficas, Gratificaciones y Títulos, establece que la nominación de Notable será otorgada cuando los servicios o aportes que se hayan brindado a la Patria, estén relacionados con la difusión y el aprovechamiento de la ciencia, el arte, la cultura, la educación o cualquiera otra forma de servicio altruista o colectivo; de un modo tal que represente un innegable beneficio para el Estado salvadoreño o sus habitantes.
+III. Que la Profesora Coronado del Carmen Villeda Vda. de Santos, conocida socialmente como Carmen Villeda Vda. de Santos, nacida en el Departamento de Sonsonate el 4 de marzo de 1912, domiciliada en la Ciudad de Quezaltepeque; lugar donde se ha desempeñado, al frente de una guardería infantil, durante más de 40 años, por lo que es ampliamente conocida como fundadora de la Guardería Infantil de dicha localidad.
+IV. Que la referida maestra de diferentes generaciones, ha demostrado bondad y altruismo para la niñez salvadoreña, y por esa condición humana recientemente se ha nominado la Guardería Infantil de Quezaltepeque con el nombre de Doña Carmen Villeda Vda. de Santos; méritos que son suficientes para conferirle la distinción honorífica correspondiente.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de los Diputados: José Mauricio Quinteros Cubías, José Rafael Machuca Zelaya, Salvador Sánchez Cerén, Irma Segunda Amaya Echeverría, José Orlando Arévalo Pineda y Emma Julia Fabián Hernández.
+DECRETA:
