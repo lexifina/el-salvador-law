@@ -1,0 +1,9 @@
+DECRETO Nº 867
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I. Que de conformidad con el artículo 131, ordinal 22º, de la Constitución de la República, es facultad de este Órgano del Estado conceder a personas o poblaciones, títulos, distinciones honoríficas y gratificaciones compatibles con la forma de gobierno establecida, por servicios relevantes prestados a la Patria.
+II. Que, asimismo, el artículo 6, literal b) de la Ley de Distinciones Honoríficas, Gratificaciones y Títulos, establece que la distinción honorífica de Distinguido será otorgada a personas salvadoreñas o extranjeras residentes, cuando los servicios o aportes que se hayan brindado a la Patria, estén relacionados con la difusión y el aprovechamiento de la ciencia, el arte, la cultura, la educación o cualquiera otra forma de servicio altruista o colectivo; de un modo tal que represente un innegable beneficio para el Estado salvadoreño o sus habitantes.
+III. Que la trayectoria de la Licenciada Mélida Arteaga la ha hecho merecer diferentes reconocimientos, tales como: “Bibliotecaria del Año”, de la Universidad Centroamericana “José Simeón Cañas”; Mención Honorífica, otorgada durante dos años consecutivos, por la “Asociación de Bibliotecarios de El Salvador”, por méritos reconocidos en el desempeño del cargo de Bibliotecaria y nominación de la Semana Cultural “Mélida Arteaga”, como reconocimiento público a la meritoria labor de la referida Licenciada por parte de la Asociación de Bibliotecarios de El Salvador.
+IV. Que en virtud de los meritos personales expresados en el considerando anterior, es procedente declarar a la Licenciada Mélida Arteaga, "Distinguida Bibliotecaria de El Salvador".
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Diputado Roberto José d’Aubuisson Munguía.
+DECRETA:
