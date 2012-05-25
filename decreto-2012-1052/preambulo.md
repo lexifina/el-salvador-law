@@ -1,0 +1,7 @@
+DECRETO No. 1052
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad con el artículo 131, ordinal 11o., de la Constitución de la República, es facultad de esta Asamblea Legislativa, decretar, de una manera general, beneficios e incentivos fiscales o de cualquier naturaleza, para la promoción de actividades culturales, científicas y de cualquier otra índole.
+II.- Que es deber del Estado, proteger, fomentar y estimular la producción artesanal como un elemento importante del patrimonio cultural, visibilizando a las personas que se dedican a la actividad artesanal, quienes son la figura principal como elaboradoras de cultura y que además, contribuyen en gran medida al desarrollo económico, cultural, social y turístico de El Salvador.
+III.- Que como un estímulo y en vista que el Artesano y Artesana Nacional son quienes contribuyen a enaltecer el prestigio de nuestro país, a nivel nacional e internacional, mediante la ejecución de sus obras de arte, se vuelve necesario que el día 15 de noviembre de cada año, como representantes de un sector amplio del tejido económico nacional, gocen del reconocimiento que merecen en nuestra sociedad, decretando esa fecha como “Día de la Artesana y el Artesano Salvadoreño”.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de los Diputados: Yohalmo Edmundo Cabrera Chacón, Douglas Leonardo Mejía Avilés, Inmar Rolando Reyes y Jaime Gilberto Valdez Hernández. DECRETA:
