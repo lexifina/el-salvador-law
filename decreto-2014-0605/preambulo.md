@@ -1,0 +1,8 @@
+DECRETO Nº 605
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad con el artículo 233 de la Constitución de la República, los bienes raíces de la Hacienda Pública; y los de uso público, sólo podrán donarse o darse en usufructo, comodato o arrendamiento, con autorización del Órgano Legislativo, a entidades de utilidad general.
+II.- Que de conformidad con la Matrícula NUEVE CERO CERO SEIS SEIS TRES NUEVE DOS-CERO CERO CERO CERO CERO, Asiento Uno, del Registro de la Propiedad Raíz e Hipotecas de la Primera Sección de Oriente, Departamento de San Miguel, la Corporación Salvadoreña de Inversiones, CORSAIN, es dueña y actual poseedora del inmueble de naturaleza rústica situado sobre la Carretera Panamericana, antigua ruta militar, desvío a Santa Rosa de Lima y San Francisco Gotera, Cantón Llano de Santiago, municipio El Divisadero, Departamento de Morazán, de una extensión superficial total de CINCUENTA MIL NOVECIENTOS SETENTA Y TRES PUNTO CINCUENTA Y TRES CERO CERO METROS CUADRADOS (50,973.5300 M2).
+III.- Que en el Punto de Acta número CINCO. D), de la sesión número VEINTIUNO, del Consejo de Ministros, celebrada el día veinte de septiembre del año dos mil trece, se acordó autorizar a la Presidencia de la República, para que reciba en calidad de donación, de parte de la Corporación Salvadoreña de Inversiones, CORSAIN, el terreno a que alude igualmente el considerando anterior, con la finalidad de construir y equipar Ciudad Mujer, sede Morazán.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Economía.
+DECRETA:
