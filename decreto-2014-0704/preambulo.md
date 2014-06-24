@@ -1,0 +1,7 @@
+DECRETO Nº 704
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad con el Artículo 131, Ordinal 11º de la Constitución, es facultad de esta Asamblea Legislativa Decretar, de manera general, beneficios e incentivos fiscales o de cualquier naturaleza, para la promoción de actividades culturales, científicas, agrícolas, industriales, o de otra índole.
+II.- Que históricamente se ha reconocido en los distintos espacios industriales y empresariales de la vida productiva de El Salvador, y en la sociedad en general, el 17 de junio de cada año como el “Día del Panificador y Panificadora”, fecha con la que este sector se ha sentido identificado, y que responde a su tradición.
+III.- Que el Decreto Legislativo Nº 55, de fecha 24 de junio de 2009, publicado en el Diario Oficial Nº 130, Tomo Nº 384, de fecha 14 de julio del mismo año, reconoce la labor que realiza en nuestro país el sector panadero, declarando el 29 de junio de cada año, como “Día Nacional del Panificador”; siendo necesario, además de incorporar en dicha declaratoria, a las mujeres panificadoras, que día a día realizan las mismas actividades, modificar la fecha de la misma, en el sentido de declarar el 17 de junio de cada año, “Día Nacional del Panificador y Panificadora.” POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de la Diputada Irma Lourdes Palacios Vásquez y del Diputado José Santos Melara Yanes.
+DECRETA:
