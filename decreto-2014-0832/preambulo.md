@@ -1,0 +1,9 @@
+DECRETO N° 832
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que mediante Decreto Legislativo N° 296, de fecha 24 de julio de 1992, publicado en el Diario Oficial N° 143, Tomo N° 316, del 31 del mismo mes y año, se emitió la Ley de Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios.
+II.- Que el artículo 66 de dicha Ley establece, que cuando las operaciones realizadas en un período tributario son en parte gravadas, en parte exentas o en parte no sujetas, el crédito fiscal a deducirse del débito fiscal, se establecerá con base a un factor determinado por las operaciones gravadas del período dividido por la sumatoria de las operaciones gravadas, exentas y no sujetas, aplicando dicho factor al crédito fiscal del período tributario.
+III.- Que conforme a la Convención de Viena sobre Relaciones Diplomáticas, es procedente reconocer la aplicación de los principios de reciprocidad y nación más favorable, que rigen en materia de relaciones internacionales.
+IV.- Que en atención a los referidos principios, se vuelve necesario crear, dentro de la Ley de Impuesto a la Transferencia de Bienes Muebles y a la Prestación de Servicios, los mecanismos necesarios para beneficiar a las misiones diplomáticas, consulares, organismos internacionales y a sus miembros acreditados en El Salvador, quienes constantemente adquieren en el país para su uso personal, misión o desarrollo de sus proyectos de apoyo al Estado salvadoreño, bienes y servicios de parte de sus proveedores locales. POR TANTO,
+en uso de sus facultades Constitucionales y a la iniciativa del Presidente de la República, por medio de los Ministros de Hacienda y de Relaciones Exteriores.
+DECRETA las siguientes
+REFORMAS A LA LEY DE IMPUESTO A LA TRANSFERENCIA DE BIENES MUEBLES Y A LA PRESTACIÓN DE SERVICIOS
