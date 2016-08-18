@@ -1,0 +1,8 @@
+DECRETO N 468
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el día domingo catorce de agosto del corriente año, falleció la Doctora María Julia Castillo Rodas, suceso que causó consternación en los salvadoreños, principalmente en la clase política del país.
+II.- Que la Doctora María Julia Castillo Rodas, fue conocida por sus servicios en beneficio de los salvadoreños, desempeñando importantes cargos dentro de la vida institucional del país, entre los que destacan Diputada de la Asamblea Constituyente, Presidenta de la Asamblea Legislativa y Directora del Instituto Salvadoreño del Seguro Social, en los que demostró altos principios de honradez y probidad; así como también, impulsadora de los derechos de igualdad de las mujeres, lo cual llevó a que esta Asamblea Legislativa le declarara Hija Meritísima de El Salvador.
+III.- Que por las razones antes expuestas es merecedora que el pueblo salvadoreño, le rinda tributo, declarándose tres días de Duelo Nacional y que la Bandera Nacional se mantenga a media asta en los edificios públicos.
+POR TANTO,
+en uso de las facultades Constitucionales y a iniciativa de las Diputadas y Diputados, Guillermo Antonio Gallegos Navarrete, José Francisco Merino López, David Ernesto Reyes Molina, Guillermo Francisco Mata Bennett, José Serafín Orantes Rodríguez,Mario Antonio Ponce López, Mauricio Ernesto Vargas, René Portillo Cuadra, Carmen Elena Calderón Sol de Escalón, José Antonio Almendariz Rivas, Rodrigo Ávila Avilés, Norma Fidelia Guevara de Ramirios, Margarita Escobar, Alberto Armando Romero Rodríguez y Orlando Cabrera Candray.
+DECRETA:
