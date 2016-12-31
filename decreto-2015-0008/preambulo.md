@@ -1,0 +1,9 @@
+DECRETO N° 8
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Constitución de la República, en su Art. 174 inciso segundo, establece que la organización y funcionamiento del Órgano Judicial serán determinados por la Ley.
+II.- Que por Decreto Legislativo N° 684, de fecha 22 de mayo de 2014, publicado en el Diario Oficial N° 105, Tomo N° 403del mes de junio del mismo año, erigió la jurisdicción ambiental y dispuso en los artículos 6 y 7, un plazo máximo de seis meses contados a partir de la vigencia de dicho Decreto, para la creación de un Juzgado Ambiental en la Ciudad de San Salvador, y de un año para la creación de una Cámara Ambiental de Segunda Instancia, con sede en San Salvador, y de los Juzgados Ambientales en las Ciudades de Santa Ana y San Miguel.
+III.- Que a la fecha, la Cámara Tercera de lo Civil de la Primera Sección del Centro, con sede en San Salvador y el Juzgado Ambiental de San Salvador, de conformidad al mismo Decreto legislativo, se encuentran ejerciendo competencia sobre asuntos ambientales a nivel nacional; y la información estadística obtenida en los asuntos sometidos a su jurisdicción, no justifica la necesidad de la puesta en funcionamiento de los Tribunales Ambientales cuyo plazo se determinó en dicho Decreto, ni la erogación de fondos públicos, en concordancia con las políticas de ahorro y austeridad del sector público.
+IV.- Que se vuelve necesario prorrogar la competencia de los tribunales mencionados en el Considerando anterior hasta el 31 de diciembre de 2015, fecha límite para que la Corte Suprema de Justicia integre la Cámara Ambiental de Segunda Instancia con sede en San Salvador, y los Juzgados Ambientales en las Ciudades de Santa Ana y San Miguel.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de la Corte Suprema de Justicia y de la Diputada Lorena Guadalupe Peña Mendoza y los Diputados Santiago Flores Alfaro y Mario Alberto Tenorio Guerrero.
+DECRETA:
