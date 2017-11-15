@@ -1,0 +1,9 @@
+DECRETO N° 813
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo N° 150 de fecha 2 de octubre del año 2003, publicado en el Diario Oficial N° 198, Tomo N° 361, del 24 de octubre del mismo año, se declaró por un período de 3 años, exentos del pago de todo tipo de impuestos, incluyendo los municipales que pudiesen causar las prestaciones que realicen conjuntos musicales y artistas salvadoreños en sus diferentes especialidades, según tabla establecida en el mismo.
+II.- Que el referido Decreto se emitió a raíz de la crisis económica por la que atraviesan los artistas nacionales, situación que les desmotiva a seguirse desarrollando, por lo que era necesario otorgarles incentivos fiscales con el objeto de contribuir al fortalecimiento de éstos.
+III.- Que los efectos del referido Decreto han sido prorrogados en diferentes ocasiones, siendo la última por medio del Decreto Legislativo N° 126, de fecha 18 de septiembre del año 2015, publicado en el Diario Oficial N° 186, Tomo N° 409, del 12 de octubre del mismo año, reforma que vence el 24 de octubre del presente año.
+IV.- Que la crisis económica por la que atraviesan los referidos conjuntos musicales y artistas salvadoreños aún persisten, y por estar próximo el vencimiento de dicho incentivo fiscal, es conveniente prorrogar por tres años más, los efectos establecidos en el Decreto Legislativo N° 150, a que se ha hecho referencia en el Considerado primero de este Decreto.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de los Diputados y Diputadas Norma Fidelia Guevara de Ramirios, Carmen Elena Calderón de Escalón, Margarita Escobar, Armando Alberto Romero Rodríguez, Guadalupe Antonio Vásquez Martínez, Rolando Mata Fuentes y Rodolfo Antonio Parker Soto.
+DECRETA:
