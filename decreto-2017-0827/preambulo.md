@@ -1,0 +1,8 @@
+DECRETO N° 827
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que los artículos 1 y 2 de la Constitución de la República, reconocen respectivamente, a la persona humana como el origen y el fin de la actividad del Estado, que está organizado para la consecución de la justicia, de la seguridad jurídica, y del bien común; así como el derecho que toda persona tiene a la vida, integridad física y moral, libertad, trabajo, propiedad y posesión, y a ser protegida en la conservación y defensa de los mismos.
+II.- Que asimismo el artículo 131 Ordinal 11° de dicha Constitución, establece que es facultad de esta Asamblea Legislativa: “Decretar, de una manera general, beneficios e incentivos fiscales o de cualquier naturaleza, para la promoción de actividades culturales, científicas, agrícolas, industriales, comerciales o de servicios.”
+III.- Que la loable labor de los trabajadores y trabajadoras de cultura de la Secretaría de Cultura de la Presidencia, contribuye a propiciar un cambio cultural que genera procesos sociales hacia la cultura de la creatividad y del conocimiento, lo que sustenta a una sociedad con oportunidades, equidad y sin violencia.
+IV.- Que en virtud de lo antes expuesto y con el objeto de reconocer la labor realizada por los trabajadores y trabajadoras de la cultura en nuestro país, es procedente declarar el siete de noviembre de cada año “Día Nacional del Trabajador y Trabajadora de Cultura.” POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de los Diputados y las Diputadas: Lorena Guadalupe Peña Mendoza, Raúl Omar Cuéllar y Jaime Gilberto Valdez Hernández.
+DECRETA:
