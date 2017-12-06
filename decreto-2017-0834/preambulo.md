@@ -1,0 +1,9 @@
+DECRETO N° 834
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad con el artículo 233 de la Constitución, los bienes raíces de la Hacienda Pública y los de uso público, solo podrán donarse o darse en usufructo, comodato o arrendamiento, con autorización del Órgano Legislativo, a entidades de utilidad general.
+II.- Que el Estado y Gobierno de El Salvador, en el ramo de Educación, es propietario de un inmueble de naturaleza rústica, situado en Cantón Llano de Santiago, jurisdicción de la Villa de El Divisadero, Departamento de Morazán, de una extensión superficial de CATORCE MIL CUATROCIENTOS SETENTA Y UNO PUNTO SETENTA Y CINCO METROS CUADRADOS (14,471.75 M2); el cual se encuentra inscrito bajo la Matrícula número NUEVE CERO CERO CINCO UNO CINCO OCHO DOS - CERO CERO CERO CERO CERO, Asiento Uno, del Registro de la Propiedad Raíz e Hipotecas de la Primera Sección de Oriente, Departamento de San Miguel.
+III.- Que la Alcaldía Municipal de la Villa de El Divisadero, ha solicitado al Ministerio de Educación (MINED), la donación del inmueble antes relacionado, para funcionamiento de una Casa Comunal y acceso peatonal; lo anterior es necesario, ya que con ello se beneficiará a la comunidad y podrán realizar mejoras en la infraestructura de dicho inmueble.
+IV.- Que en el Acta de la Sesión Número TREINTA Y DOS, del Consejo de Ministros, celebrada el día quince de agosto de dos mil diecisiete, se encuentra el punto de Acta Número SIETE. F), por el que se acordó por unanimidad autorizar al Ministerio de Educación para que proceda a donar a la Alcaldía Municipal de la Villa de El Divisadero, Departamento de Morazán, la porción del inmueble relacionado en el segundo Considerando del presente Decreto.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Educación.
+DECRETA:
