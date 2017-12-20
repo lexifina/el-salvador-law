@@ -1,0 +1,8 @@
+DECRETO N° 860
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Fundación Stichting Seen Art o por sus siglas Stichting Seen Art Foundation, originaria de Holanda, es una organización apolítica, no religiosa y sin fines de lucro, la cual tiene su domicilio principal en Ámsterdam, Holanda, Reino de los Países Bajos; sin embargo, la misma está inscrita y funciona conforme a las Leyes de este país.
+II.- Que la Fundación Stichting Seen Art su finalidad consiste en: i) asistencia a personas desfavorecidas en países en desarrollo; ii) apoyar a personas, organizaciones, instituciones y proyectos que persigan este fin; iii) realizar todo lo anterior con el propósito de crear beneficios. La fundación sirve al interés público, es sin fines de lucro, trata de alcanzar su objetivo a través de una recaudación de fondos y obtener apoyo financiero y/o material de terceros y el uso y la apropiación de los fondos obtenidos deben dirigirse al propósito expuesto en los literales anteriores.
+III.- Que la Fundación Stichting Seen Art es receptora de una donación de la Wisconsin Lions Missions, la que consiste en un lote de anteojos destinado para población beneficiaría del Departamento de Usulután, de El Salvador.
+IV.- Que de conformidad a las facultades que a esta Asamblea Legislativa le confiere la Constitución de la República, es procedente exonerar del pago de impuestos, incluyendo bodegaje, que pueda causar la introducción al país el ingreso de dos bultos conteniendo lentes de una variedad de prescripciones o graduaciones. POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Diputado Mauricio Roberto Linares Ramírez.
+DECRETA:
