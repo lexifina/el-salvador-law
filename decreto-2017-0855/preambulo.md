@@ -1,0 +1,9 @@
+DECRETO N° 855
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Fundación de Ayuda Comunitaria, que se abrevia FUNDACOM es una entidad de utilidad pública, apolítica, no lucrativa, ni religiosa, cuyos objetivos, entre otros, son preparar y presentar portafolios de proyectos para que donantes e inversionistas locales, e internacionales se motiven en financiar proyectos a través de Convenios Internacionales, para la ejecución de proyectos priorizados que atiendan la problemática de comunidades.
+II.- Que para el logro de sus objetivos han realizado una alianza con Operation Airway, para apoyar las operaciones de labio leporino, paladar hendido y jornada dental, que se realizarán en el Hospital Nacional de Niños Benjamín Bloom, del 29 de enero al 06 de febrero de 2018, en beneficio de pacientes de escasos recursos, para lo cual utilizarán, medicamentos y material médico, de oficina, de apoyo y regalos donados, que introducirán al país a su llegada.
+III.- Que en dicha jornada participarán médicos y enfermeras, de quienes FUNDACOM, se hará cargo de los gastos de estadía mientras se desarrolla la jornada médica; y en razón de que la misma no tiene fines de lucro no se cuenta con los recursos necesarios para hacer efectivo el pago de los derechos migratorios para el ingreso al país de los médicos integrantes que participarán en dicha jornada, así como de la introducción del equipo médico.
+IV.- Que de conformidad a las facultades que a esta Asamblea Legislativa le confiere la Constitución de la República, es procedente exonerar del pago de impuestos, incluyendo bodegaje, que pueda causar la introducción al país el ingreso del equipo médico, así como los derechos migratorios de los médicos que participarán en dicha jornada.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de los Diputados Francisco José Zablah Safie y Juan Alberto Valiente Álvarez.
+DECRETA:
