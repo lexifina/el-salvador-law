@@ -1,0 +1,9 @@
+DECRETO Nº 227
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que es responsabilidad del Estado garantizar la seguridad pública en toda la nación, por intermedio de la Policía Nacional Civil, con el propósito de hacer guardar la paz, la tranquilidad y el orden tanto en el ámbito urbano como en lo rural, con estricto apego al respeto a los derechos humanos y bajo la dirección de autoridades civiles;
+II.- Que de conformidad a lo establecido en los Acuerdos de Paz, suscritos en Chapultepec, se reconoció la necesidad de regular la actividad de todas aquellas entidades, grupos o personas que presten servicios de seguridad o protección a particulares, empresas o instituciones estatales, ya sean autónomas o municipales, a fin de garantizar que sus actividades se apeguen a la legalidad y con estricto respeto a los derechos humanos;
+III.- Que la legislación existente que regula las actividades que realizan las empresas, establecimientos, vigilantes individuales, asociaciones de éstos y detectives privados, no facilita la legalización, los controles ni establece las sanciones por las infracciones cometidas en el desarrollo de sus actividades, lo que hace necesario emitir una nueva ley que solventa tales vacíos;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados José Manuel Melgar Henríquez, Rodrigo Ávila Avilés, José Antonio Almendáriz Rivas, Juan Ramón Medrano Guzmán, Rosario Acosta, Nelson Napoleón García Rodríguez, Isidro Antonio Caballero Caballero, Juan Mauricio Estrada Linares, Héctor Nazario Salaverría Mathies, Nelson Funes, Louis Agustín Calderón Cáceres, Carlos Walter Guzmán Coto, Agustín Díaz Saravia y Ernesto Angulo, DECRETA LA SIGUIENTE:
+LEY DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
+TITULO I CAPITULO UNICO OBJETO Y CAMPO DE APLICACIÓN DE LA LEY
