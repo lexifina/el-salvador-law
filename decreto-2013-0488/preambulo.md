@@ -1,0 +1,11 @@
+DECRETO No. 488
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el artículo 101 de la Constitución de la República establece, que el Estado promoverá el desarrollo económico y social mediante el incremento de la producción, la productividad y la racional utilización de los recursos. Con igual finalidad, fomentará los diversos sectores de la producción y defenderá el interés de los consumidores, y así dinamizar la economía para generar nuevas fuentes de empleo o fortalecer las ya existentes;
+II.- Que para lograr una economía más sólida y dinámica, combatir la pobreza y fomentar el desarrollo productivo, se debe establecer una política integral que comprenda la modernización de la legislación, creando un marco jurídico ágil y moderno que potencie el valor económico de los bienes muebles de diversa índole, para que puedan ser objeto de garantía y respaldar adecuadamente las obligaciones de toda naturaleza que contraigan los diversos sectores de la economía del país, principalmente, los micro, pequeños y medianos empresarios;
+III.- Que si bien la legislación civil y mercantil contempla diversas especies de garantías mobiliarias, la regulación de su registro y ejecución es diversa, por lo que es necesario establecer un régimen uniforme de procedimientos ágiles, transparentes, seguros y económicamente accesibles para la constitución, registro, publicidad, cancelación o realización de aquéllas, para lo cual es necesario la creación de un registro electrónico específico, dotado de medidas de seguridad indispensables para su adecuado funcionamiento;
+IV.- Que las experiencias jurídicas y prácticas del mercado moderno se han recogido en una Ley modelo sobre Garantías Mobiliarias, aprobada por la Asamblea de la Organización de Estados Americanos; por lo que muchos países están basando sus esfuerzos de reforma sobre esta materia en la Ley modelo mencionada, que propiciaría una base idónea de armonización regional si se utiliza para emitir leyes homogéneas en aquellos países que cuentan con un marco legal sobre esta materia.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Economía, DECRETA la siguiente:
+LEY DE GARANTÍAS MOBILIARIAS
+TÍTULO I ÁMBITO DE APLICACIÓN GENERAL
+CAPÍTULO I OBJETO, ALCANCE Y ÁMBITO DE APLICACIÓN DE LA LEY Objeto
