@@ -1,0 +1,8 @@
+DECRETO Nº 137
+LA ASAMBLEA NACIONAL LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+Que por decreto del Poder Ejecutivo de 3 octubre de 1945, publicado en el Diario Oficial del 8 del mismo mes y año, reformado por el decreto del mismo Poder de 18 de marzo de 1946, publicado en Diario Oficial de 25 del mismo mes y año, se constituyó la Comisión Ejecutiva Hidroeléctrica del Río Lempa, con el objeto de hacer los estudios que determinen las posibilidades y las bases del desarrollo del Río Lempa para realizar la obra de electrificación nacional;
+Que en virtud de los trabajos preparatorios hechos por la citada Comisión, asesorada por los técnicos americanos contratados por ella, se ha llegado a la comprobación de que es factible e indispensable aprovechar los recursos hidráulicos del país, particularmente los de la cuenca del Río Lempa, para resolver el problema de la electrificación nacional, declarada de utilidad pública por Decreto Legislativo Nº 285 de 26 de diciembre de 1945;
+Que la electrificación nacional es uno de los problemas de mayor urgencia que confronta el país, de suya resolución acertada depende el desarrollo industrial y el progreso económico de la Nación; Que en consecuencia, debe procederse a la realización de la obra y para llevarla a efecto es indispensable organizar una entidad con carácter de institución de servicio público, sin fin lucrativo, completamente autónoma, dotada de amplias facultades que le permitan cumplir su patriótico cometido, sobre bases similares a las que han sido adoptadas en varios países con magníficos resultados; POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Poder Ejecutivo.
+DECRETA la siguiente
+LEY DE LA COMISIÓN EJECUTIVA HIDROELÉCTRICA DEL RÍO LEMPA
