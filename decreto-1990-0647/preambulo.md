@@ -1,0 +1,9 @@
+DECRETO No. 647
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el Consejo Arancelario y Aduanero Centroamericano, en su Primera Reunión, acordó la resolución N1 2 (CONSEJO -1-85) por medio de la cual aprobó el Anexo "A", del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, "Arancel Centroamericano de Importación" y define las características de las tres partes que lo conforman, y faculta para que cada país signatario adopte y modifique los Derechos Arancelarios a la Importación de los rubros comprendidos en la PARTE III, conforme a su legislación interna.
+II.- Que por Decreto Legislativo N1 222 de fecha 17 de diciembre de 1985, publicado en el Diario Oficial N1 244, Tomo 289 del 23 del mismo mes y año, se puso en vigencia la PARTE III del Arancel Centroamericano de Importación.
+III.- Que por Decreto Legislativo N1 383 del 30 de noviembre de 1989, publicado en el Diario Oficial N1 232, Tomo 305 de fecha 14 de diciembre de ese mismo año, se derogó en todas sus partes el precitado Decreto N1 222 sustituyéndolo el referido Decreto 383.
+IV.- Que por Decreto Legislativo N1 400 del 8 de diciembre de 1989, publicado en el Diario Oficial N1 234, Tomo 305 de fecha 18 de ese mismo mes y año, se sustituyeron los artículos 3 y 4 del mencionado Decreto 383; y posteriormente modificado en el artículo 2 por Decreto Legislativo N1 486 del 27 de abril de 1990, publicado en el Diario Oficial N1 113, Tomo 307 del 15 de mayo de este mismo año.
+V.- Que es conveniente establecer con carácter de ley una nueva edición que contenga las reformas hechas hasta el presente, adecuar la PARTE III con la I y II del mismo Arancel, introducir las mejoras que la práctica aconseja y las disposiciones que se requieren, para facilitar su aplicación e interpretación. POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Presidente de la República, por medio de los Ministros de Hacienda y de Economía.
+DECRETA:
