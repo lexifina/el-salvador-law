@@ -1,0 +1,6 @@
+DECRETO No. 154
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que de conformidad al Art. 11 de la Ley del Cuerpo de Bomberos de El Salvador, corresponde al Director General del Cuerpo las funciones de Inspector General de Seguros contra Incendios, las que ejercerá de acuerdo a la Ley para Inspección General de Seguros contra incendios, contenida en el Decreto sin número de fecha 13 de abril de 1921, publicado en el Diario Oficial No. 85, Tomo 90 del 16 del mismo mes y año;
+II.- Que las disposiciones antes dichas fueron derogadas por el Art. 125 de la Ley de Sociedades de Seguros, contenida en el Decreto No. 844, de fecha 10 de octubre de 1996, publicada en el Diario Oficial No. 207, Tomo 333, de fecha 4 de noviembre del mismo año;
+III.- Que el régimen de contratación de seguros contra incendio, requiere la intervención de una entidad especializada que garantice las condiciones mínimas de seguridad física de los inmuebles objeto de esta clase de contratos; POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro del Interior, DECRETA, LAS SIGUIENTES REFORMAS A LA LEY DEL CUERPO DE BOMBEROS DE EL SALVADOR:
