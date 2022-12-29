@@ -1,0 +1,9 @@
+DECRETO N° 350
+LA ASAMBLEA CONSTITUYENTE DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Ley del Instituto Nacional de Pensiones de los Empleados Públicos, en su Art.58 reconoce a los pensionados por vejez, la facultad de reincorporarse al servicio activo antes del cumplimiento de los 70 años de edad, con derecho a recuperar su pensión al cesar en su nuevo empleo, pudiendo incrementar el monto de la misma en base al salario y tiempo adicional de servicio, sin establecer límites en el cómputo de dicho tiempo adicional;
+II.- Que la misma Ley en los Arts. 77 y 78, establece el retiro forzoso para todos aquellos empleados al servicio del Estado que hayan alcanzado la edad de 70 años, el cual solo podrá suspenderse por períodos sucesivos de seis meses cada uno, hasta el límite de 75 años;
+III.- Que en la Administración Pública existen servidores que aún cuando han alcanzado la edad límite para el retiro forzoso, continúan prestando sus servicios al Estado; y
+IV.- Que es conveniente dictar las disposiciones legales que en forma mas equitativa y justa regulen la situación de aquellos servidores públicos a que se refieren las consideraciones anteriores; y obedeciendo objetivos del actual Gobierno, tendientes a establecer las condiciones socio-económicas que beneficien a los servidores del Estado, es procedente introducir a la Ley mencionada, las reformas correspondientes;
+POR TANTO,
+en uso de sus facultades legislativas y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda, previa opinión emitida de los Vice-Presidentes de la República, DECRETA:
+Las siguientes reformas a la Ley del Instituto Nacional de Pensiones de los Empleados Públicos, emitida por Decreto Legislativo N°º 373 de fecha 16 de octubre de 1975, publicado en el Diario Oficial N° 198, Tomo 249, del 24 del mismo mes y año mencionados:
