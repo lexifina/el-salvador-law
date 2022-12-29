@@ -1,0 +1,11 @@
+DADO EN EL SALÓN DE SESIONES DE LA ASAMBLEA LEGISLATIVA, PALACIO LEGISLATIVO: San Salvador, a los veintitrés días del mes de febrero de mil novecientos setenta y ocho.
+RUBÉN ALFONSO RODRÍGUEZ,
+PRESIDENTE.
+ALFREDO MORALES RODRÍGUEZ, BENJAMÍN WILFRIDO NAVARRETE, VICE-PRESIDENTE. VICE-PRESIDENTE. MARIO S. HERNÁNDEZ SEGURA, JOSÉ MAURICIO VELÁSQUEZ ARÉVALO, PRIMER SECRETARIO. PRIMER SECRETARIO. MATÍAS ROMERO, PRIMER SECRETARIO.
+VÍCTOR MANUEL MENDOZA VAQUEDANO,
+SEGUNDO SECRETARIO.
+CASA PRESIDENCIAL: San Salvador, a los veintisiete días del mes de febrero de mil novecientos setenta y ocho.
+PUBLÍQUESE.
+CARLOS HUMBERTO ROMERO, Presidente de la República.
+René López Bertrand, Ministro de Hacienda. PUBLÍQUESE EN EL DIARIO OFICIAL.
+Julio Ernesto Astacio, Ministro de la Presidencia de la República.
