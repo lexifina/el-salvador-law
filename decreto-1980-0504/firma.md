@@ -1,0 +1,7 @@
+DADO EN CASA PRESIDENCIAL: San Salvador, a primero de diciembre de mil novecientos ochenta.
+CNEL. E ING. JAIME ABDUL GUTIÉRREZ.
+DR. JOSÉ ANTONIO MORALES EHRLICH.
+DR. JOSÉ RAMÓN AVALOS NAVARRETE.
+ING. JOSÉ NAPOLEÓN DUARTE.
+DR. JORGE EDUARDO TENORIO,
+Ministro de Hacienda.
