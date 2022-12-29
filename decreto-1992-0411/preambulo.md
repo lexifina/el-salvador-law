@@ -1,0 +1,8 @@
+DECRETO N° 411
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo N° 373 de fecha 16 de octubre de 1975, publicado en el Diario Oficial N° 198, Tomo 249, de fecha 24 de octubre de 1975, se emitió la Ley del Instituto Nacional de Pensiones de los Empleados Públicos;
+II.- Que el literal b) del Art. 6 de la referida Ley, al definir lo que es un empleado docente, establece que son los educadores escalafonados que desempeñan cargos de docencia, dirección en Centros Educativos, Supervisión y orientación educativa y vocacional y cargos de Técnica Pedagógica en los niveles educativos parvularios, básico, medio, superior no universitario y especial;
+III.- Que tal definición, sólo abarca a los educadores escalafonados y por consiguiente los educadores no escalafonados no pueden optar a pensión, no obstante que reúnan los requisitos de cotización, tiempo de servicio y los demás establecidos por la Ley;
+IV.- Que tal situación es injusta para los empleados docentes no escalafonados, por lo que es procedente reformar el referido inciso primero del literal b) del Art. 6, antes señalado;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa de los Diputados Carmen Elena Calderón de Escalón, Mario Eduardo Valiente Ortíz, Moisés Abdala Daboub Orellana, Jorge Arriaza Meléndez, Marcos Alfredo Valladares, Raúl Manuel Somoza Alfaro, Raúl Antonio Peña Flores, René Flores Aquino, Carlos Abdiel Centi, Angel Gabriel Aguirre Martínez, Guillermo Antonio Guevara Lacayo, Gerardo Antonio Suvillaga, Juan José Martell, Jorge Alberto Carranza Alvarez, DECRETA:
