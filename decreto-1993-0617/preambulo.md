@@ -1,0 +1,6 @@
+ASAMBLEA LEGISLATIVA ─── ÍNDICE DE LEGISLACIÓN ═══════════════════════════════════════════════════ DECRETO Nº 617
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la existencia de una expresión cultural e histórica común, representada por la herencia compartida de la civilización Maya, determina la importancia de realizar proyectos de integración turística regional de beneficio mutuo para los pueblos de la región; ya que la preservación y mantenimiento del patrimonio natural y cultural es la base de un turismo constructivo como fuente de desarrollo y de bienestar común;
+II.- Que la planificación turística debe tener en cuenta la conservación y mejora del patrimonio cultural y natural, así como la biodiversidad de los sistemas ecológicos, y la puesta en práctica de desarrollos turísticos planificados que incorporen conceptos de preservación de las calidades debidas, los entornos culturales y ambientales de los pueblos de la región MUNDO MAYA, significa la mejor expresión de integración turística;
+POR TANTO:
+en uso de sus facultades constitucionales y a iniciativa del Diputado Reynaldo Quintanilla Prado y del Presidente de la República por medio del Ministro de Relaciones Exteriores y de conformidad al Art. 131 ordinal 7º de la Constitución, en relación con el Art. 168 ordinal 4º de la misma, DECRETA:
