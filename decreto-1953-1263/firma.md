@@ -1,0 +1,12 @@
+DADO EN EL SALON DE SESIONES DE LA ASAMBLEA LEGISLATIVA; PALACIO NACIONAL: San Salvador, a los tres días del mes de diciembre de mil novecientos cincuenta y tres.
+JOSÉ MARÍA PERALTA SALAZAR,
+PRESIDENTE.
+SERAFÍN QUITEÑO, GUSTAVO JIMÉNEZ MARENCO, VICEPRESIDENTE. VICEPRESIDENTE. RENÉ CARMONA DÁRDANO, MANUEL LAÍNEZ RUBIO, PRIMER SECRETARIO. PRIMER SECRETARIO. MANUEL ATILIO GUANDIQUE,
+PRIMER SECRETARIO.
+MANUEL RAFAEL REYES, RAFAEL A. IRAHETA, SEGUNDO SECRETARIO. SEGUNDO SECRETARIO. CASA PRESIDENCIAL: San Salvador, a los siete días del mes de diciembre de mil novecientos cincuenta y tres.
+PUBLÍQUESE, OSCAR OSORIO, Presidente de la República.
+MARIO HÉCTOR SALAZAR, Ministro de Trabajo y Previsión Social.
+ENRIQUE A. PORRAS, Ministro de Hacienda.
+EDUARDO BARRIENTOS, Ministro de Salud Pública y
+Asistencia Social.
+MANUEL ANTONIO RAMÍREZ, Subsecretario de Economía.
