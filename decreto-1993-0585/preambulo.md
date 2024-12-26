@@ -1,0 +1,6 @@
+DECRETO No. 585.-
+LA ASAMBLEA LEGISLATIVA DE LA REPUBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo Nº 469 de fecha 18 de febrero de 1993, publicado en el Diario Oficial Nº 127, Tomo 320 del 7 de julio de 1993, se ratificó en todas sus partes los Acuerdos relativos a la Reducción de Ciertas Deudas Relacionadas con la Asistencia Externa y con la Agricultura pagaderas al Gobierno de los Estados Unidos de América y a sus Organismos, suscritos el 15 de diciembre de 1992;
+II.- Que el día 18 de junio de 1992, se suscribió de conformidad al Decreto Legislativo Nº 469 referido anteriormente el Acuerdo relativo al Establecimiento del Fondo y del Consejo Administrativo de la Iniciativa para las Américas entre los Gobiernos de la República de El Salvador y los Estados Unidos de América, con el objeto de promover las actividades destinadas a preservar, proteger o gestionar los recursos naturales y biológicos de la República de El Salvador de manera sustentable y ecológicamente acertada, al mismo tiempo que se fomenta la supervivencia y el progreso de los niños en El Salvador;
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Hacienda y de conformidad al Art. 131 ordinal 7o. de la Constitución, en relación con el Art. 168 ordinal 4o. de la misma, DECRETA:
