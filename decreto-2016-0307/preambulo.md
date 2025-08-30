@@ -1,0 +1,11 @@
+DECRETO No. 307
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que el artículo 1 de la Constitución, reconoce a la persona humana como el origen y el fin de la actividad del Estado, que está organizado para la consecución de la justicia, de la seguridad jurídica y del bien común. Asimismo, reconocer como persona humana a todo ser humano desde el instante de su concepción. En consecuencia, es obligación del Estado, asegurar a los habitantes de la República el goce de la libertad, la salud, la cultura, el bienestar económico y la justicia social.
+II.- Que la Constitución en su artículo 65, establece que la salud de los habitantes constituye un bien público y que el Estado y las personas están obligados a velar por su conservación y establecimiento.
+III.- Que actualmente hay en nuestra legislación algunos derechos y deberes tanto de pacientes como prestadores de servicios de salud, que se encuentran en varios cuerpos de Ley, lo que hace algunas veces complicada su conocimiento, y se vuelve necesario dictar una Ley que regule y garantice los derechos y deberes de pacientes y prestadores de servicios de salud.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa de las Diputadas y Diputados Lorena Guadalupe Peña Mendoza, Norman Noel Quijano González, Santiago Flores Alfaro, Guillermo Francisco Mata Bennett, Manuel Orlando Cabrera Candray, Zoila Beatriz Quijada Solís, Juan Carlos Mendoza Portillo, Ana Marina Alvarenga Barahona, Rodrigo Ávila Avilés, Silvia Alejandrina Castro Figueroa, Ricardo Humberto Contreras Henríquez, Rosa Alma Cruz Marinero, Juan Manuel de Jesús Flores Cornejo, Norma Fidelia Guevara de Ramirios, Audelia Guadalupe López de Kleutgens, Rolando Mata Fuentes, Sonia Margarita Rodríguez Sigüenza, Karina Ivette Sosa, Guadalupe Antonio Vasquez Martínez, Francisco José Zablah Safie y con el apoyo del Diputado Mártir Arnoldo Marín Villanueva; con la iniciativa de las y los Diputados del período legislativo 2003-2006 Jorge Antonio Escobar Rosa; de la legislatura 2013-2015 Blanca Noemí Coto, Emma Julia Fabián Hernández, Irma Lourdes Palacios, Oscar Ernesto Novoa Ayala y Othon Sigfrido Reyes Morales.
+DECRETA la siguiente:
+LEY DE DEBERES Y DERECHOS DE LOS PACIENTES Y PRESTADORES
+DE SERVICIOS DE SALUD
+TÍTULO I CAPÍTULO I DISPOSICIONES GENERALES Objeto de la Ley
