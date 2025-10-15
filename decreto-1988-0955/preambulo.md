@@ -1,0 +1,16 @@
+DECRETO Nº 955
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que la Constitución en su Art. 65 establece que la salud de los habitantes de la República, constituye un bien público y que el Estado y las personas están obligadas a velar por su conservación y restablecimiento. Que el Estado determinará la política nacional de salud, controlará y supervisará su aplicación.
+II.- Que el Art. 67 de la Constitución establece que los servicios de salud pública serán esencialmente técnicos y crea las carreras sanitarias, hospitalarias, paramédicas y administración hospitalaria.
+III.- Que el Art. 68 de la Constitución determina que un Consejo Superior de Salud Pública velará por la salud del pueblo, el cual estará formado por igual número de representantes de los gremios médico, odontológico, químico-farmacéutico y médico-veterinario.
+IV.- Que el ejercicio de las profesiones que se relacionan de un modo inmediato con la salud del pueblo, será vigilado por organismos legales formados por académicos pertenecientes a cada profesión, con facultades para suspender en el ejercicio profesional a los miembros del gremio bajo su control, cuando ejerzan su profesión con manifiesta inmoralidad o incapacidad.
+V.- Que de conformidad al Decreto Legislativo de fecha 30 de junio de 1927, publicado en el Diario Oficial No. 161, Tomo 103 de fecha 19 de julio de 1927, se emitió la Ley de Farmacias la cual no responde a las necesidades actuales relacionadas con la salud.
+VI.- Que de conformidad con el Decreto Legislativo No. 2699 de fecha 28 de agosto de 1958, publicado en el Diario Oficial No. 168, Tomo 180, de fecha 10 de septiembre del referido año, se emitió la Ley del Consejo Superior de Salud Pública y de las Juntas de Vigilancia de las Profesiones Médica, Odontológica y Farmacéutica, reformadas mediante los Decretos Legislativos Nos. 357 y 591 de fechas 21 de marzo de 1985 y 12 de febrero de 1987, publicados en los Diarios Oficiales Nos. 75, Tomo 287 y 43, Tomo 294 de fecha 23 de abril de 1985 y 4 de marzo de 1987 respectivamente.
+VII.- Que mediante el Decreto Legislativo No. 147 de fecha 30 de agosto de 1930, publicado en el Diario Oficial No. 26, Tomo 110 de fecha 31 de enero de 1931, se emitió el Código de Sanidad de la República de El Salvador; contando a la fecha con 57 años de haberse, emitido, razón por la que se considera que no está acorde con la realidad actual.
+VIII.- Que de conformidad con el Artículo 271 de la Constitución de 1983, la Asamblea Legislativa debe armonizar con ésta las Leyes secundarias de la República y las Leyes Especiales de Creación y demás Disposiciones que rigen las Instituciones Oficiales Autónomas.
+IX.- Que a efecto de cumplir con el mandato constitucional relacionado con el Considerando anterior y de las Normas contenidas en las convenciones suscritas y ratificadas por el Estado de El Salvador con otros Estados u organismos Internacionales sobre la materia de salud, es conveniente emitir un nuevo Código que armonice con la Constitución y la realidad del pueblo en esta materia.
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Salud Pública y Asistencia Social.
+DECRETA, el siguiente:
+CÓDIGO DE SALUD TÍTULO PRELIMINAR DISPOSICIONES GENERALES
+CAPÍTULO ÚNICO

@@ -1,0 +1,1 @@
+Art. 128-B.- DEROGADO POR D. L. No. 651/2020.

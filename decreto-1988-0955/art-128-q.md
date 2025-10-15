@@ -1,0 +1,1 @@
+Art. 128-Q.- DEROGADO POR D. L. No. 651/2020.

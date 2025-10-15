@@ -1,0 +1,1 @@
+Art. 39-B.- DEROGADO POR D.L. No. 1008/12.
