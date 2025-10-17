@@ -1,0 +1,10 @@
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los seis días del mes de mayo de mil novecientos ochenta y seis.
+ALFONSO ARÍSTIDES ALVARENGA, HUGO ROBERTO CARRILLO CORLETO, VICEPRESIDENTE. VICEPRESIDENTE. CARLOS ALBERTO FUNES, PEDRO ALBERTO HERNÁNDEZ PORTILLO, SECRETARIO. SECRETARIO. JOSÉ HUMBERTO POSADA SÁNCHEZ, RAFAEL MORÁN CASTANEDA, SECRETARIO. SECRETARIO. RUBÉN ORELLANA MENDOZA,
+SECRETARIO.
+CASA PRESIDENCIAL: San Salvador, a los catorce días del mes de mayo de mil novecientos ochenta y seis.
+PUBLÍQUESE,
+RODOLFO ANTONIO CASTILLO CLARAMOUNT,
+Vice-Presidente de la República, Encargado del Despacho Presidencial.
+RICARDO J. LÓPEZ, Ministro de Hacienda.
+MIGUEL ALEJANDRO GALLEGOS,
+Ministro de Trabajo y Previsión Social.
