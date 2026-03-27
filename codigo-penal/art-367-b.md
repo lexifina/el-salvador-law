@@ -1,0 +1,2 @@
+# Art. 367-B
+DEROGADO POR D. L. N° 824/2014.

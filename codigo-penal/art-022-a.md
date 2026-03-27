@@ -1,0 +1,2 @@
+# Art. 22-A
+DEROGADO POR D. L. N° 190/2006.
