@@ -1,0 +1,1 @@
+Art. 49-A.- (DEROGADO POR D. L. N° 151/24)
