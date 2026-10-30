@@ -1,0 +1,89 @@
+{
+ "country": "SV",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Cn",
+   "title": "Constitución de la República de El Salvador (Decreto Constituyente n.º 38, 1983)",
+   "url": "https://www.asamblea.gob.sv/sites/default/files/2026-05/1.%20CONSTITUCI%C3%93N%20DE%20LA%20REP%C3%9ABLICA.pdf",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 275,
+     "source_url": "https://www.asamblea.gob.sv/sites/default/files/2026-05/1.%20CONSTITUCI%C3%93N%20DE%20LA%20REP%C3%9ABLICA.pdf",
+     "sha256": "6ac00cf92c5721d377086ed5d15defac08565417fa7e2daca7ee448b72a0f5c8"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-penal",
+   "short": "CP",
+   "title": "Código Penal (Decreto Legislativo n.º 1030, 1997)",
+   "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/631050CB-7A8D-4CBE-A750-2B33EBE41B8A.pdf",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 512,
+     "source_url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/631050CB-7A8D-4CBE-A750-2B33EBE41B8A.pdf",
+     "sha256": "5be162e72d3fe38f19095a922350b479b9ffe379e229379e95869a8bd9472079"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-civil",
+   "short": "CC",
+   "title": "Código Civil (decreto del Poder Ejecutivo de 23 de agosto de 1859)",
+   "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/D491C5C6-3C26-4D3D-B9A7-CC394CEE2D69.pdf",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 2268,
+     "source_url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/D491C5C6-3C26-4D3D-B9A7-CC394CEE2D69.pdf",
+     "sha256": "e2f649d75ec75f46c8f6ad7ae9553e2704d7e65aebb527f7dac7022b2f46666e"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-comercio",
+   "short": "CCom",
+   "title": "Código de Comercio (Decreto Legislativo n.º 671, 1970)",
+   "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/945102FD-7B05-485E-B98B-6C5D3C0509E3.pdf",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1601,
+     "source_url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/945102FD-7B05-485E-B98B-6C5D3C0509E3.pdf",
+     "sha256": "555cd0932e113566c36b4357a3203bba18d25983685214844b82261e4879e004"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-trabajo",
+   "short": "CT",
+   "title": "Código de Trabajo (Decreto Legislativo n.º 15, 1972)",
+   "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/78CDEA76-6047-427C-8CFE-00F1650C6066.pdf",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 642,
+     "source_url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/78CDEA76-6047-427C-8CFE-00F1650C6066.pdf",
+     "sha256": "cb3d1b8b898d9f742aa75b6101db0ab1eeb3b5f10aa91b5c884ee6ef7f87277e"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-procesal-penal",
+   "short": "CPP",
+   "title": "Código Procesal Penal (Decreto Legislativo n.º 733, 2008)",
+   "url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/6BCD7BC0-F6BF-4696-9354-4C8EDA34E677.pdf",
+   "versions": [
+    {
+     "from": "2026-04-26",
+     "units": 583,
+     "source_url": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/6BCD7BC0-F6BF-4696-9354-4C8EDA34E677.pdf",
+     "sha256": "159dbcbf4a1c520c7b082e65e13cda746a5ce40036ec6bcb016962ef29ab62e9"
+    }
+   ]
+  }
+ ]
+}
