@@ -1,0 +1,10 @@
+DECRETO Nº 126
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR, CONSIDERANDO:
+I.- Que por Decreto Legislativo Nº 455, de fecha 21 de octubre de 1965, publicado en el Diario Oficial Nº 206, Tomo Nº 209, del 11 de noviembre de ese mismo año, se emitió la Ley Orgánica de la Comisión Ejecutiva Portuaria Autónoma, por medio de la cual se crea dicha Comisión Ejecutiva como institución de carácter autónomo, responsable, entre otras, de la administración, explotación, dirección y ejecución de las operaciones aeroportuarias del país.
+II.- Que el crecimiento económico mundial conlleva al país a dinamizar su economía, adoptando instrumentos financieros y jurídicos que le permita ampliar el horizonte de la inversión y garantizar el desarrollo de la infraestructura y servicios administrada por CEPA.
+III.- Que en ese sentido la Comisión Ejecutiva Portuaria Autónoma (CEPA), tiene dentro de sus principales objetivos velar por su sostenibilidad financiera; propiciar la redefinición de sus políticas económicas y financieras que le permitan hacer inversiones en el Aeropuerto Internacional El Salvador, con el objeto de ampliar y mejorar la infraestructura y los servicios que ésta presta a sus usuarios.
+IV.- Que no obstante, ser obligación de la institución garantizar el financiamiento para ampliar y mejorar los servicios que presta el referido aeropuerto, la difícil situación económica mundial de la que nuestro país no escapa, obliga a que se busquen mecanismos legales que garanticen el financiamiento de proyectos que son indispensables realizar para el desarrollo del país.
+V.- Que siendo la titularización un mecanismo legal, que permite la sostenibilidad de las inversiones realizadas y aquellas que se proyectan ejecutar a futuro, es necesario emitir disposiciones legales que le faciliten a ésta garantizar su financiamiento.
+POR TANTO,
+en uso de sus facultades constitucionales y a iniciativa del Presidente de la República, por medio del Ministro de Obras Públicas, Transporte y de Vivienda y Desarrollo Urbano.
+DECRETA:
