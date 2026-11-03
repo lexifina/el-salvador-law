@@ -4,6 +4,12 @@ Article 50 of the Ley de Propiedad Intelectual (Decreto Legislativo n.º 66 of 2
 published, singly or in collections, faithful to the official text and without the Government's
 authorisation.
 
+<!-- acts:start -->
+Decrees in the folders decreto-YYYY-NNNN/: the texts of the Asamblea Legislativa's Índice Legislativo
+(https://www.asamblea.gob.sv/leyes-y-decretos/decretos-por-anios), retrieved November 2026, under the same article 50
+of the Ley de Propiedad Intelectual.
+<!-- acts:end -->
+
 The arrangement of this repository, its tables, commit messages and tools are by Lexifina and may be
 reused under the Creative Commons Attribution 4.0 International licence
 (https://creativecommons.org/licenses/by/4.0/). This repository is not legal advice and not an
