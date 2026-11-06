@@ -1,5 +1,7 @@
 # El Salvador: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is El Salvador's national law, which global-law reads at `el-salvador/national/acts/`.
+
 The Constitution of El Salvador and its core codes as a git repository: one file per article, so `git blame` and `git log` work on the text. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `sv/`.
 
 **What is in it now**
