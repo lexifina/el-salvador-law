@@ -20,7 +20,9 @@ i = s.index("| `constitucion/`")
 j = s.index("\n", i) + 1
 s = s[:j] + ''.join(ROWS[w] for w in want) + s[j:]
 s = s.replace("- File names: `art-005.md` is Article 5.", "- File names: `art-005.md` is Article 5. In the codes, each file is one article with the same limits: one version each, dated from the last reform in the source's list (its Diario Oficial date, or its in-force day where the README says so), and the Libro, Título and Capítulo headings are not files.")
-(R / 'README.md').write_text(s, encoding='utf-8', newline='')
+# Since 2026-11-14 the README is on the serbia-law model, written by hand: it is left as it is.
+if '## Questions as git commands' not in (R / 'README.md').read_text(encoding='utf-8'):
+    (R / 'README.md').write_text(s, encoding='utf-8', newline='')
 lic = (H / 'LICENSE.base.txt').read_text(encoding='utf-8')
 lic = lic.replace("The legal text is the Constitution of El Salvador as published", "The legal text is the Constitution of El Salvador" + (", and the codes listed in the README," if want else "") + " as published", 1)
 (R / 'LICENSE').write_text(lic, encoding='utf-8', newline='')

@@ -43,7 +43,9 @@ def put(path: Path, text: str, anchor: str | None) -> None:
     path.write_text(s, 'utf-8', newline='\n')
 
 
-put(H / 'repo' / 'README.md', SECTION, '## Source')
+# Since 2026-11-14 the README is on the serbia-law model, written by hand: it is left as it is.
+if '## Questions as git commands' not in (H / 'repo' / 'README.md').read_text('utf-8'):
+    put(H / 'repo' / 'README.md', SECTION, '## Source')
 LIC = f"""{A0}
 Decrees in the folders decreto-YYYY-NNNN/: the texts of the Asamblea Legislativa's Índice Legislativo
 (https://www.asamblea.gob.sv/leyes-y-decretos/decretos-por-anios), retrieved November 2026, under the same article 50
