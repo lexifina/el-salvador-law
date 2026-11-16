@@ -60,6 +60,7 @@ Un decreto sin reformas se atribuye a sí mismo (`D. L. N° 149 de 1934`) y uno 
 - Todos los textos se leen de la capa de texto de los PDF nativos digitales de la Asamblea, sin OCR. En un decreto, cada palabra anterior al bloque del Diario Oficial está en un archivo, en orden, salvo los encabezados de página, las marcas de reforma "(n)" y las notas de los editores.
 - Se excluye todo decreto cuyos artículos no estén numerados 1, 2, 3 y así sucesivamente, cada uno una sola vez, y también los decretos transitorios, que pueden haber caducado.
 - `tools/build.py` escribe la historia a partir de un único archivo de corpus, y el mismo corpus produce siempre los mismos hashes de commit; `tools/check_repo.py` vuelve a leer desde git cada versión y la compara con el corpus, y verifica que `main` no tenga commits de fusión (merge) ni nada fechado en el futuro. [`REPRODUCE.md`](REPRODUCE.md) todavía no registra ninguna ejecución de esa verificación ni una segunda compilación.
+- [vulnerabilities/](vulnerabilities/): posibles errores de técnica normativa en el derecho salvadoreño, hallados por los detectores de global-law y comprobados a mano.
 
 ## Qué no muestra
 

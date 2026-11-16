@@ -60,6 +60,7 @@ A decree with no reform is credited to itself (`D. L. N° 149 de 1934`) and a re
 - Every text is read from the text layer of the Asamblea's born-digital PDFs, without OCR. In a decree, every word before the Diario Oficial block is in a file, in order, except page headers, the reform markers "(n)" and editors' notes.
 - A decree whose articles are not numbered 1, 2, 3 and so on, each once, is left out, and so are temporary decrees, which may have lapsed.
 - `tools/build.py` writes the history from one corpus file, and the same corpus always gives the same commit hashes; `tools/check_repo.py` reads every version back from git and compares it with the corpus, and checks that `main` has no merge commits and nothing dated in the future. [`REPRODUCE.md`](REPRODUCE.md) does not yet record a run of it or a second build.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Salvadoran law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
