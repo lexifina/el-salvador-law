@@ -1,35 +1,41 @@
-# El Salvador: law history in git
+# El Salvador: historia del derecho en git
 
+**Español** · [English](README.en.md)
 
-The national law of El Salvador as a git history: one file per article, one commit per version on the day it took effect, and the law behind each version as the commit's author. `git blame` names the law behind every article; `git log` lists every change to an article; picking a date gives the text in force that day, as far as the record reaches.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/es/effort-dark.svg">
+<img alt="El derecho salvadoreño en este repositorio: qué contiene, los cambios por año de entrada en vigor, la completitud frente a las fuentes oficiales y la exactitud de lo que contiene" src="data/es/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is El Salvador's national law, which global-law reads at `el-salvador/national/acts/`.
+El derecho nacional de El Salvador como historia de git: un archivo por artículo, un commit por versión el día en que entró en vigencia, y la ley que está detrás de cada versión como autor del commit. `git blame` indica la ley que está detrás de cada artículo; `git log` enumera todos los cambios de un artículo; al elegir una fecha se obtiene el texto vigente ese día, hasta donde alcanza el registro.
 
-**What is in it now:** the Constitution of 1983, five codes (the Código Civil, the Código de Comercio, the Código de Trabajo, the Código Penal and the Código Procesal Penal) and 945 decrees of the Asamblea Legislativa (laws, ratified treaties and other legislative decrees), each as one version: today's text with its reforms worked in. [`data/versions.json`](data/versions.json) lists every act with its version; each act's folder has a `README.md` listing its provisions.
+Forma parte de [lexifina/global-law](https://github.com/lexifina/global-law), una única historia de git para el derecho de todos los países: este es el derecho nacional de El Salvador, que global-law lee en `el-salvador/national/acts/`.
 
-Each act is a folder: `constitution/constitucion/`, `code/<code>/` (`code/codigo-de-trabajo/` is the Código de Trabajo, Decreto Legislativo n.º 15 of 1972) and `decreto/<year>/<number>/` (`decreto/1940/0017/` is Decreto N° 17 de 1940, the Ley de Asuetos, Vacaciones y Licencias de los Empleados Públicos; a second decree with the same year and number takes the Índice's view id, `decreto/2015/0961-v3138/`). In it, `art-177.md` is Art. 177 and `art-010-bis.md` Art. 10 bis; a decree's `preambulo.md` holds the text before Art. 1 and `firma.md` the closing and signatures. [`data/paths.json`](data/paths.json) maps each act id to its folder.
+**Qué contiene ahora:** la Constitución de 1983, cinco códigos (el Código Civil, el Código de Comercio, el Código de Trabajo, el Código Penal y el Código Procesal Penal) y 945 decretos de la Asamblea Legislativa (leyes, tratados ratificados y otros decretos legislativos), cada uno en una versión: el texto actual con sus reformas incorporadas. [`data/versions.json`](data/versions.json) enumera cada norma con su versión; la carpeta de cada norma tiene un `README.md` que enumera sus disposiciones.
 
-The text is in Spanish, as the Asamblea Legislativa prints it. An English translation is not part of this record.
+Cada norma es una carpeta: `constitution/constitucion/`, `code/<code>/` (`code/codigo-de-trabajo/` es el Código de Trabajo, Decreto Legislativo n.º 15 de 1972) y `decreto/<year>/<number>/` (`decreto/1940/0017/` es el Decreto N° 17 de 1940, la Ley de Asuetos, Vacaciones y Licencias de los Empleados Públicos; un segundo decreto con el mismo año y número toma el identificador de vista del Índice, `decreto/2015/0961-v3138/`). Dentro de ella, `art-177.md` es el Art. 177 y `art-010-bis.md` el Art. 10 bis; el `preambulo.md` de un decreto contiene el texto anterior al Art. 1 y `firma.md` el cierre y las firmas. [`data/paths.json`](data/paths.json) relaciona el identificador de cada norma con su carpeta.
 
-## Questions as git commands
+El texto está en español, tal como lo publica la Asamblea Legislativa. Este registro no incluye una traducción al inglés.
 
-| Question | Command |
+## Preguntas como comandos de git
+
+| Pregunta | Comando |
 | --- | --- |
-| Every change to Art. 177 (annual leave) of the Código de Trabajo | `git log -p --follow --word-diff -- code/codigo-de-trabajo/art-177.md` |
-| Which act wrote each line of Art. 177? | `git blame code/codigo-de-trabajo/art-177.md` |
-| Every version of the Código de Trabajo, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" --grep="^Act: CT$"` |
-| Art. 177 as in force on 1 November 2026 | `python tools/on.py 2026-11-01 codigo-de-trabajo 177` |
+| Todos los cambios del Art. 177 (vacaciones anuales) del Código de Trabajo | `git log -p --follow --word-diff -- code/codigo-de-trabajo/art-177.md` |
+| ¿Qué norma escribió cada línea del Art. 177? | `git blame code/codigo-de-trabajo/art-177.md` |
+| Todas las versiones del Código de Trabajo, con el día en que entró en vigencia cada una | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" --grep="^Act: CT$"` |
+| El Art. 177 vigente al 1 de noviembre de 2026 | `python tools/on.py 2026-11-01 codigo-de-trabajo 177` |
 
-**Outside git**, we also host this record publicly, for free:
+**Fuera de git**, también alojamos este registro de forma pública y gratuita:
 
-- **[Ask Claude about Salvadoran law](https://global-law.lexifina.com/v1/try_claude?country=el-salvador)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=el-salvador)**: the same question in ChatGPT.
-- **[Search Salvadoran law on our site](https://lexifina.com/law?country=el-salvador&q=vacaciones)**: a search for "vacaciones", with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdiction=el-salvador)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Preguntar a Claude sobre el derecho salvadoreño](https://global-law.lexifina.com/v1/try_claude?country=el-salvador)**: abre Claude con una primera pregunta preparada.
+- **[Preguntar a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=el-salvador)**: la misma pregunta en ChatGPT.
+- **[Buscar en el derecho salvadoreño en nuestro sitio](https://lexifina.com/law?country=el-salvador&q=vacaciones)**: una búsqueda de "vacaciones", con el texto de cada disposición y sus versiones, sin necesidad de cuenta.
+- **[API REST para desarrolladores](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdiction=el-salvador)**: la misma búsqueda en JSON, sin clave. Consulte la [documentación aquí](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
+Ambos asistentes leen el registro a través del conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la primera vez, el chat le da el enlace para agregarlo. Pregunte en español o en inglés.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**Alójelo usted mismo fácilmente.** Solo hacen falta git y Python, y las herramientas se ejecutan en su equipo:
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,50 +43,52 @@ python3 tools/countries.py add el-salvador/national/acts
 python3 tools/law.py show 2026-11-01 el-salvador/national/acts/code/codigo-de-trabajo/art-177.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Abierto en Claude Code, Cursor, VS Code o Codex, el clon también inicia un servidor MCP local con las mismas herramientas ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Dates
+## Fechas
 
-Each commit is dated at noon, America/El_Salvador, on the day the version took effect, and carries it in its `In-force:` trailer:
+Cada commit está fechado a las doce del mediodía, hora de America/El_Salvador, del día en que la versión entró en vigencia, y lleva ese día en su trailer `In-force:`:
 
-- for the Constitution and the codes, the Diario Oficial day of the last reform the source lists (the Constitution 7 May 2026, the Código Penal 27 March 2026, the Código Civil 26 April 2022, the Código de Comercio 11 April 2024), or the day that reform took effect, read in the reform itself (the Código de Trabajo 24 September 2026, the Código Procesal Penal 26 April 2026);
-- for a decree with no reform listed, the day its own vigencia article gives, otherwise eight days after its Diario Oficial publication (Constitución art. 140); for a reformed decree, eight days after the Diario Oficial publication of the latest reform listed; where the list could not be read (17 decrees), the day it was retrieved, 3 November 2026;
-- git cannot store dates before 1970, so the 7 decrees in force earlier (1934 to 1951) are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
+- para la Constitución y los códigos, el día del Diario Oficial de la última reforma que enumera la fuente (la Constitución, el 7 de mayo de 2026; el Código Penal, el 27 de marzo de 2026; el Código Civil, el 26 de abril de 2022; el Código de Comercio, el 11 de abril de 2024), o el día en que esa reforma entró en vigencia, según la propia reforma (el Código de Trabajo, el 24 de septiembre de 2026; el Código Procesal Penal, el 26 de abril de 2026);
+- para un decreto sin reformas enumeradas, el día que da su propio artículo de vigencia o, en su defecto, ocho días después de su publicación en el Diario Oficial (art. 140 de la Constitución); para un decreto reformado, ocho días después de la publicación en el Diario Oficial de la última reforma enumerada; cuando no se pudo leer la lista (17 decretos), el día en que se descargó, el 3 de noviembre de 2026;
+- git no puede almacenar fechas anteriores a 1970, por lo que los 7 decretos vigentes desde antes (de 1934 a 1951) están fechados a partir del 1970-01-01, con un segundo de diferencia entre sí, y llevan el día real en `In-force:`. Para consultar una fecha, use `tools/on.py`, no `git log --before`.
 
-A decree with no reform is credited to itself (`D. L. N° 149 de 1934`) and a reformed one to its latest reform (`D. L. N° 674 de 2026`), for its whole text. The Constitution, the codes and the 17 decrees whose reform list could not be read are the "oldest version available", credited to the publisher, the Asamblea Legislativa's Índice Legislativo.
+Un decreto sin reformas se atribuye a sí mismo (`D. L. N° 149 de 1934`) y uno reformado a su última reforma (`D. L. N° 674 de 2026`), por todo su texto. La Constitución, los códigos y los 17 decretos cuya lista de reformas no se pudo leer son la "versión más antigua disponible", atribuida a quien la publica, el Índice Legislativo de la Asamblea Legislativa.
 
-## How it is checked
+## Cómo se verifica
 
-- Every text is read from the text layer of the Asamblea's born-digital PDFs, without OCR. In a decree, every word before the Diario Oficial block is in a file, in order, except page headers, the reform markers "(n)" and editors' notes.
-- A decree whose articles are not numbered 1, 2, 3 and so on, each once, is left out, and so are temporary decrees, which may have lapsed.
-- `tools/build.py` writes the history from one corpus file, and the same corpus always gives the same commit hashes; `tools/check_repo.py` reads every version back from git and compares it with the corpus, and checks that `main` has no merge commits and nothing dated in the future. [`REPRODUCE.md`](REPRODUCE.md) does not yet record a run of it or a second build.
+- Todos los textos se leen de la capa de texto de los PDF nativos digitales de la Asamblea, sin OCR. En un decreto, cada palabra anterior al bloque del Diario Oficial está en un archivo, en orden, salvo los encabezados de página, las marcas de reforma "(n)" y las notas de los editores.
+- Se excluye todo decreto cuyos artículos no estén numerados 1, 2, 3 y así sucesivamente, cada uno una sola vez, y también los decretos transitorios, que pueden haber caducado.
+- `tools/build.py` escribe la historia a partir de un único archivo de corpus, y el mismo corpus produce siempre los mismos hashes de commit; `tools/check_repo.py` vuelve a leer desde git cada versión y la compara con el corpus, y verifica que `main` no tenga commits de fusión (merge) ni nada fechado en el futuro. [`REPRODUCE.md`](REPRODUCE.md) todavía no registra ninguna ejecución de esa verificación ni una segunda compilación.
 
-## What it does not show
+## Qué no muestra
 
-- **Earlier wordings.** Each act is one text, as the Asamblea prints it today: how the Código de Trabajo read before its 2026 reform, or the Constitution as adopted in 1983, is not here. Passages a reform changed are printed in capitals in the source and kept so.
-- **Which reform changed which article.** A reformed decree's whole text is credited to its latest reform, and the codes and the Constitution to the publisher.
-- **Headings and notes.** The Libro, Título and Capítulo headings between articles, reform footnotes and page headers are not in the files; Arts. 15 and 456 of the Código de Comercio are not in the source text.
-- **Most decrees of the Índice Legislativo**, among them those left out above, and executive decrees and regulations, municipal ordinances and case law.
+- **Las redacciones anteriores.** Cada norma es un único texto, tal como la Asamblea lo publica hoy: no está aquí cómo se leía el Código de Trabajo antes de su reforma de 2026, ni la Constitución tal como se adoptó en 1983. Los pasajes que una reforma cambió aparecen en mayúsculas en la fuente y se conservan así.
+- **Qué reforma cambió qué artículo.** Todo el texto de un decreto reformado se atribuye a su última reforma, y los códigos y la Constitución, a quien los publica.
+- **Encabezados y notas.** Los encabezados de Libro, Título y Capítulo entre los artículos, las notas de reforma y los encabezados de página no están en los archivos; los Arts. 15 y 456 del Código de Comercio no figuran en el texto de la fuente.
+- **La mayoría de los decretos del Índice Legislativo**, entre ellos los excluidos arriba; tampoco los decretos ejecutivos y reglamentos, las ordenanzas municipales ni la jurisprudencia.
 
-## Sources
+## Fuentes
 
-| Source | Kind | Past versions | Notes |
+| Fuente | Tipo | Versiones anteriores | Notas |
 | --- | --- | --- | --- |
-| [Asamblea Legislativa, Índice Legislativo](https://www.asamblea.gob.sv/leyes-y-decretos/decretos-por-anios) | Official index of legislative decrees | no: the current text, with its list of reforms | The Constitution, the five codes and the 945 decrees, from its PDFs; the Diario Oficial publication of each decree and of its reforms |
+| [Asamblea Legislativa, Índice Legislativo](https://www.asamblea.gob.sv/leyes-y-decretos/decretos-por-anios) | Índice oficial de decretos legislativos | no: el texto vigente, con su lista de reformas | La Constitución, los cinco códigos y los 945 decretos, a partir de sus PDF; la publicación en el Diario Oficial de cada decreto y de sus reformas |
 
-## Licence
+## Licencia
 
-See [`LICENSE`](LICENSE). Article 50 of the Ley de Propiedad Intelectual (Decreto Legislativo n.º 66 of 2024) allows laws to be published, singly or in collections, faithful to the official text and without the Government's authorisation. The arrangement, tables, commit messages and tools are by Lexifina, under the Creative Commons Attribution 4.0 International licence.
+Véase [`LICENSE`](LICENSE). El artículo 50 de la Ley de Propiedad Intelectual (Decreto Legislativo n.º 66 de 2024) permite publicar las leyes, por separado o en colecciones, con fidelidad al texto oficial y sin autorización del Gobierno. La organización, las tablas, los mensajes de commit y las herramientas son de Lexifina, con licencia Creative Commons Atribución 4.0 Internacional.
 
-No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+Ningún modelo de IA escribió, tradujo ni corrigió texto normativo, y ninguno se ejecuta durante la compilación; los scripts los escribió Claude Code con Claude Opus 5.5 (véase [`REPRODUCE.md`](REPRODUCE.md)).
 
-## More
+Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
+## Más información
 
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+Del repositorio [lexifina/global-law](https://github.com/lexifina/global-law) (páginas en inglés):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas las funciones y lo que cada corpus debe admitir (`git blame`, `law.py`, herramientas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): preguntas y respuestas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proponer cambios · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): cómo se ha construido · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): lo actualizado que está cada corpus · [Supervisión](https://github.com/lexifina/global-law/tree/main/monitoring): si las actualizaciones funcionan · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): cómo se vigila cada fuente oficial para detectar cambios
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidez de las herramientas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos y conexiones a través del derecho de todo el mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): errores en las normas tal como se publicaron
